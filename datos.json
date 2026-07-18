@@ -22,5 +22,17 @@
     "ifm": 38,
     "notes": "Sesgo bajista: rout de semis (SOX -9% semanal) tras Kimi K3 de Moonshot y escalada EEUU-Irán en Ormuz (WTI +14% semanal); sin dato overnight real por cierre de fin de semana.",
     "result": null
+  },
+  {
+    "date": "2026-07-19",
+    "cp": "update",
+    "up": 18,
+    "down": 50,
+    "flat": 32,
+    "bias": "down",
+    "conv": 45,
+    "ifm": 30,
+    "notes": "Sin checkpoint 'pre' de hoy (mercados cerrados, futuros aún sin reabrir); sesgo bajista reforzado tras 2 militares de EEUU muertos en Jordania y ruptura del memorando Irán-EEUU, sin confirmación de precio aún.",
+    "result": null
   }
 ]
