@@ -34,5 +34,29 @@
     "ifm": 30,
     "notes": "Sin checkpoint 'pre' de hoy (mercados cerrados, futuros aún sin reabrir); sesgo bajista reforzado tras 2 militares de EEUU muertos en Jordania y ruptura del memorando Irán-EEUU, sin confirmación de precio aún.",
     "result": null
+  },
+  {
+    "date": "2026-07-19",
+    "cp": "pre",
+    "up": 12,
+    "down": 60,
+    "flat": 28,
+    "bias": "down",
+    "conv": 65,
+    "ifm": 20,
+    "notes": "Fuertemente bajista: guerra activa EEUU-Irán (8ª noche), 2 militares de EEUU muertos y 1 desaparecido en ataque a base de Jordania, MOU suspendido por Irán, más rout de semis (SOX/SMH -6% semanal); sin dato overnight real de NQ por cierre de fin de semana.",
+    "result": null
+  },
+  {
+    "date": "2026-07-19",
+    "cp": "update",
+    "up": 12,
+    "down": 60,
+    "flat": 28,
+    "bias": "down",
+    "conv": 65,
+    "ifm": 20,
+    "notes": "Sin cambios materiales confirmados desde el informe de 14:45; futuros CME siguen cerrados (reabren ~00:00 CEST) y no hay overnight de NQ. Escalada EEUU-Irán y rout de semis se mantienen como tesis vigente sin nuevos catalizadores verificados.",
+    "result": null
   }
 ]
