@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-07-18",
+    "cp": "update",
+    "up": 20,
+    "down": 45,
+    "flat": 35,
+    "bias": "down",
+    "conv": 40,
+    "ifm": 35,
+    "notes": "Sin checkpoint 'pre' de referencia hoy (sábado, mercados cerrados); sesgo bajista de continuación tras el rout de semis del viernes y la escalada EEUU-Irán.",
+    "result": null
+  },
+  {
+    "date": "2026-07-18",
+    "cp": "pre",
+    "up": 20,
+    "down": 45,
+    "flat": 35,
+    "bias": "down",
+    "conv": 55,
+    "ifm": 38,
+    "notes": "Sesgo bajista: rout de semis (SOX -9% semanal) tras Kimi K3 de Moonshot y escalada EEUU-Irán en Ormuz (WTI +14% semanal); sin dato overnight real por cierre de fin de semana.",
+    "result": null
+  }
+]

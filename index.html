@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Radar de Sesión · NQ (local)</title>
+<style>
+  :root{
+    --bg: #0a0d10;
+    --panel: #10151a;
+    --panel-2: #151b21;
+    --line: #22292f;
+    --text: #d7dde2;
+    --text-dim: #7c8892;
+    --up: #17c982;
+    --down: #ef4b5c;
+    --flat: #e8b93f;
+    --accent: #2fd0e0;
+    --mono: 'Consolas', 'SFMono-Regular', 'Menlo', monospace;
+    --cond: 'Arial Narrow', 'Oswald', Impact, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0; background:var(--bg); color:var(--text); font-family:var(--mono); font-size:14px; padding:24px 16px 60px;}
+  .wrap{max-width:920px; margin:0 auto;}
+  header{display:flex; justify-content:space-between; align-items:flex-end; border-bottom:2px solid var(--line); padding-bottom:14px; margin-bottom:22px; flex-wrap:wrap; gap:10px;}
+  h1{font-family:var(--cond); font-weight:900; letter-spacing:0.5px; font-size:28px; margin:0; text-transform:uppercase; color:#fff;}
+  h1 span{color:var(--accent);}
+  .sub{color:var(--text-dim); font-size:12px; letter-spacing:0.5px; margin-top:4px;}
+  .clock{font-family:var(--mono); font-size:12px; color:var(--text-dim); text-align:right;}
+  .clock b{color:var(--accent); font-size:16px; display:block;}
+  .panel{background:var(--panel); border:1px solid var(--line); border-radius:4px; padding:18px; margin-bottom:18px;}
+  .panel h2{font-family:var(--cond); text-transform:uppercase; font-size:15px; letter-spacing:1px; margin:0 0 14px; color:var(--text); border-left:3px solid var(--accent); padding-left:8px;}
+  table{width:100%; border-collapse:collapse; font-size:12px;}
+  th{text-align:left; color:var(--text-dim); font-weight:600; text-transform:uppercase; font-size:10px; letter-spacing:0.5px; border-bottom:1px solid var(--line); padding:6px 8px;}
+  td{padding:7px 8px; border-bottom:1px solid #171d22; vertical-align:middle;}
+  .tag{padding:2px 7px; border-radius:3px; font-size:10px; font-weight:700; text-transform:uppercase;}
+  .tag.up{background:rgba(23,201,130,0.15); color:var(--up);}
+  .tag.down{background:rgba(239,75,92,0.15); color:var(--down);}
+  .tag.flat{background:rgba(232,185,63,0.15); color:var(--flat);}
+  .res-select{background:var(--panel-2); border:1px solid var(--line); color:var(--text); font-size:11px; padding:4px; border-radius:3px;}
+  .stats-grid{display:grid; grid-template-columns:repeat(auto-fit, minmax(130px,1fr)); gap:12px;}
+  .stat{background:var(--panel-2); border:1px solid var(--line); border-radius:4px; padding:12px;}
+  .stat .val{font-family:var(--cond); font-size:26px; font-weight:900; color:#fff;}
+  .stat .lbl{font-size:10px; color:var(--text-dim); text-transform:uppercase; letter-spacing:0.5px; margin-top:2px;}
+  .empty{color:var(--text-dim); font-size:12px; padding:14px 0; text-align:center;}
+  .banner{background:#1a1408; border:1px solid #4a3a10; color:#f0c46a; padding:10px 14px; border-radius:4px; font-size:12px; margin-bottom:18px; line-height:1.5;}
+  .banner.err{background:#1a0d0e; border-color:#4a1015; color:#f08a8a;}
+  button.ghost{background:transparent; border:1px solid var(--line); color:var(--text-dim); padding:6px 12px; border-radius:3px; cursor:pointer; font-family:var(--mono); font-size:11px;}
+  .notes-cell{max-width:220px; color:var(--text-dim); font-size:11px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Radar de Sesión <span>· NQ</span></h1>
+      <div class="sub">Versión local · lee datos.json de esta misma carpeta · generado por Cowork</div>
+    </div>
+    <div class="clock"><b id="liveClock">--:--</b><span id="liveDate">--</span></div>
+  </header>
+
+  <div class="banner" id="statusBanner" style="display:none;"></div>
+
+  <div class="panel">
+    <h2>Precisión acumulada</h2>
+    <div class="stats-grid" id="statsGrid"></div>
+  </div>
+
+  <div class="panel">
+    <h2>Historial de lecturas</h2>
+    <div style="margin-bottom:10px;"><button class="ghost" id="reloadBtn">↻ Recargar datos.json</button></div>
+    <table id="historyTable">
+      <thead>
+        <tr><th>Fecha</th><th>Checkpoint</th><th>Sesgo</th><th>Conv.</th><th>IFM</th><th>Notas</th><th>Resultado real</th><th>Acierto</th></tr>
+      </thead>
+      <tbody id="historyBody"></tbody>
+    </table>
+    <div class="empty" id="historyEmpty" style="display:none;">Aún no hay entradas en datos.json. Se rellenará automáticamente cuando corran las tareas programadas.</div>
+  </div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+let entries = [];
+
+function tickClock(){
+  const now = new Date();
+  const opts = {timeZone:'Europe/Madrid', hour:'2-digit', minute:'2-digit', second:'2-digit', hour12:false};
+  const dopts = {timeZone:'Europe/Madrid', weekday:'short', day:'2-digit', month:'short'};
+  $('liveClock').textContent = now.toLocaleTimeString('es-ES', opts) + ' CEST';
+  $('liveDate').textContent = now.toLocaleDateString('es-ES', dopts);
+}
+tickClock();
+setInterval(tickClock, 1000);
+
+function biasTag(b){
+  const map = {up:['ALCISTA','up'], down:['BAJISTA','down'], flat:['LATERAL','flat']};
+  const [label,cls] = map[b] || ['?','flat'];
+  return `<span class="tag ${cls}">${label}</span>`;
+}
+function cpLabel(cp){ return cp==='pre' ? 'Pre-apertura 14:45' : 'Actualización 15:20'; }
+
+function renderHistory(){
+  const body = $('historyBody');
+  body.innerHTML = '';
+  $('historyEmpty').style.display = entries.length ? 'none' : 'block';
+  const sorted = [...entries].sort((a,b)=> (b.date+b.cp).localeCompare(a.date+a.cp));
+  sorted.forEach(e=>{
+    const tr = document.createElement('tr');
+    const hit = e.result ? (e.result === e.bias ? '✓' : '✗') : '—';
+    const hitColor = e.result ? (e.result === e.bias ? 'var(--up)' : 'var(--down)') : 'var(--text-dim)';
+    tr.innerHTML = `
+      <td>${e.date}</td>
+      <td>${cpLabel(e.cp)}</td>
+      <td>${biasTag(e.bias)}</td>
+      <td>${e.conv}</td>
+      <td>${e.ifm}</td>
+      <td class="notes-cell">${e.notes || ''}</td>
+      <td>${e.result ? biasTag(e.result) : '<span style="color:var(--text-dim)">sin resultado</span>'}</td>
+      <td style="color:${hitColor}; font-weight:700;">${hit}</td>
+    `;
+    body.appendChild(tr);
+  });
+}
+
+function renderStats(){
+  const withResult = entries.filter(e=>e.result);
+  const total = withResult.length;
+  const hits = withResult.filter(e=>e.result===e.bias).length;
+  const pct = total ? Math.round(100*hits/total) : 0;
+  const pre = withResult.filter(e=>e.cp==='pre');
+  const preHits = pre.filter(e=>e.result===e.bias).length;
+  const prePct = pre.length ? Math.round(100*preHits/pre.length) : 0;
+  const upd = withResult.filter(e=>e.cp==='update');
+  const updHits = upd.filter(e=>e.result===e.bias).length;
+  const updPct = upd.length ? Math.round(100*updHits/upd.length) : 0;
+
+  $('statsGrid').innerHTML = `
+    <div class="stat"><div class="val">${entries.length}</div><div class="lbl">Lecturas totales</div></div>
+    <div class="stat"><div class="val">${total}</div><div class="lbl">Con resultado</div></div>
+    <div class="stat"><div class="val" style="color:${pct>=50?'var(--up)':'var(--down)'}">${pct}%</div><div class="lbl">Acierto global</div></div>
+    <div class="stat"><div class="val">${prePct}%</div><div class="lbl">Acierto pre-apertura</div></div>
+    <div class="stat"><div class="val">${updPct}%</div><div class="lbl">Acierto actualización</div></div>
+  `;
+}
+
+async function loadData(){
+  const banner = $('statusBanner');
+  try{
+    const res = await fetch('datos.json?_=' + Date.now());
+    if(!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    entries = Array.isArray(data) ? data : [];
+    banner.style.display = 'none';
+  }catch(e){
+    entries = [];
+    banner.style.display = 'block';
+    banner.className = 'banner err';
+    banner.textContent = 'No se ha podido leer datos.json (' + e.message + '). Comprueba que el archivo está en esta misma carpeta y que lo abres desde un servidor local, no con doble clic (algunos navegadores bloquean la lectura de archivos locales con file://). Si Chrome/Edge te bloquea la lectura, prueba a abrir esta carpeta con "Live Server" en VS Code, o dime y te preparo esa alternativa.';
+  }
+  renderHistory();
+  renderStats();
+}
+
+$('reloadBtn').addEventListener('click', loadData);
+loadData();
+</script>
+</body>
+</html>
