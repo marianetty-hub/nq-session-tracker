@@ -58,20 +58,7 @@
     "ifm": 20,
     "notes": "Sin cambios materiales confirmados desde el informe de 14:45; futuros CME siguen cerrados (reabren ~00:00 CEST) y no hay overnight de NQ. Escalada EEUU-Irán y rout de semis se mantienen como tesis vigente sin nuevos catalizadores verificados.",
     "result": null
-  },
-  {
-    "date": "2026-07-20",
-    "cp": "pre",
-    "up": 55,
-    "down": 20,
-    "flat": 25,
-    "bias": "up",
-    "conv": 60,
-    "ifm": 62,
-    "notes": "Rebote alcista tras el rout de semis: futuros NQ +0.76% premarket y Nasdaq Composite +1% intradia, VIX cede a 18.2, pese a 9a noche de escalada EEUU-Iran y SOXX en mercado bajista tecnico (-20% desde el pico de junio).",
-    "result": null
-  },
-  {
+    {
     "date": "2026-07-20",
     "cp": "update",
     "up": 50,
