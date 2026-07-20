@@ -70,5 +70,17 @@
     "ifm": 45,
     "notes": "Sin checkpoint 'pre' de hoy disponible; con mercado ya abierto el precio contradice la tesis bajista del fin de semana: S&P500 +0.5% y Nasdaq +0.8% liderados por el rebote de semis, pese a que la guerra EEUU-Irán se agrava (17 militares muertos) y el VIX sube frente al viernes.",
     "result": null
+  },
+  {
+    "date": "2026-07-20",
+    "cp": "pre",
+    "up": 55,
+    "down": 20,
+    "flat": 25,
+    "bias": "up",
+    "conv": 60,
+    "ifm": 62,
+    "notes": "Rebote alcista tras el rout de semis: futuros NQ +0.76% premarket y Nasdaq Composite +1% intradia, VIX cede a 18.2, pese a 9a noche de escalada EEUU-Iran y SOXX en mercado bajista tecnico (-20% desde el pico de junio).",
+    "result": null
   }
 ]
