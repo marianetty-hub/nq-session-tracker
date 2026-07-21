@@ -110,3 +110,4 @@ up + down + flat deben sumar 100. No sobrescribas entradas de fechas anteriores,
     "result": null
   }
 ]
+IMPORTANTE: si datos.json contiene menos entradas históricas de las que esperarías, NO asumas que se ha borrado por error ni intentes "recuperar" o reconstruir entradas de días anteriores. Un histórico corto es una decisión intencional del usuario para mantener el tracker limpio. Limítate a añadir la entrada nueva correspondiente a la ejecución actual, sin tocar ni añadir nada de fechas pasadas que no sean el objeto de esta tarea.
