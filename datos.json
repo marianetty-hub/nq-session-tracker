@@ -22,5 +22,17 @@
     "ifm": 59,
     "notes": "Tercera lectura del día (~19:15 CEST, tras un nuevo disparador programado que se ejecutó ya con el mercado abierto): sesgo alcista se mantiene pero el índice general modera (Nasdaq Composite +0.40%) mientras los semis aceleran (SOX +2.37%) por mejoras de recomendación sobre AMD; VIX cae a su mínimo del día (17.94) y el petróleo cede tras señales de posible diálogo EEUU-Irán, pese a una cifra de bajas militares de EEUU en aumento.",
     "result": null
+  },
+  {
+    "date": "2026-07-21",
+    "cp": "pre",
+    "up": 58,
+    "down": 18,
+    "flat": 24,
+    "bias": "up",
+    "conv": 60,
+    "ifm": 64,
+    "notes": "Sesgo alcista: futuros NQ +1.3%/+1.36% premarket liderados por semis (SOXQ +4.27%, Micron +6%, Nvidia tras stake del 9% en Nebius) y VIX en 17.87, pese a rendimientos del Tesoro al alza, 10a noche de guerra EEUU-Irán (con reportes de tregua de 10 dias) y nuevos aranceles del 50% a Canada.",
+    "result": null
   }
 ]
