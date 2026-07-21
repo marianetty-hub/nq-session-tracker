@@ -34,5 +34,17 @@
     "ifm": 64,
     "notes": "Sesgo alcista: futuros NQ +1.3%/+1.36% premarket liderados por semis (SOXQ +4.27%, Micron +6%, Nvidia tras stake del 9% en Nebius) y VIX en 17.87, pese a rendimientos del Tesoro al alza, 10a noche de guerra EEUU-Irán (con reportes de tregua de 10 dias) y nuevos aranceles del 50% a Canada.",
     "result": null
+  },
+  {
+    "date": "2026-07-21",
+    "cp": "update",
+    "up": 54,
+    "down": 21,
+    "flat": 25,
+    "bias": "up",
+    "conv": 56,
+    "ifm": 60,
+    "notes": "Moderación frente al 'pre': VIX sube de 17.87 a ~18.8, se confirman 3 militares de EEUU muertos (antes 2) con Hegseth compareciendo hoy ante el Senado, y el IRGC de Iran afirma sin confirmar haber atacado el centro de datos de Amazon en Bahrein; NQ, SP500, DXY y petroleo sin cambios materiales.",
+    "result": null
   }
 ]
