@@ -1,5 +1,65 @@
 [
-    {
+  {
+    "date": "2026-07-18",
+    "cp": "update",
+    "up": 20,
+    "down": 45,
+    "flat": 35,
+    "bias": "down",
+    "conv": 40,
+    "ifm": 35,
+    "notes": "Sin checkpoint 'pre' de referencia hoy (sábado, mercados cerrados); sesgo bajista de continuación tras el rout de semis del viernes y la escalada EEUU-Irán.",
+    "result": null
+  },
+  {
+    "date": "2026-07-18",
+    "cp": "pre",
+    "up": 20,
+    "down": 45,
+    "flat": 35,
+    "bias": "down",
+    "conv": 55,
+    "ifm": 38,
+    "notes": "Sesgo bajista: rout de semis (SOX -9% semanal) tras Kimi K3 de Moonshot y escalada EEUU-Irán en Ormuz (WTI +14% semanal); sin dato overnight real por cierre de fin de semana.",
+    "result": null
+  },
+  {
+    "date": "2026-07-19",
+    "cp": "update",
+    "up": 18,
+    "down": 50,
+    "flat": 32,
+    "bias": "down",
+    "conv": 45,
+    "ifm": 30,
+    "notes": "Sin checkpoint 'pre' de hoy (mercados cerrados, futuros aún sin reabrir); sesgo bajista reforzado tras 2 militares de EEUU muertos en Jordania y ruptura del memorando Irán-EEUU, sin confirmación de precio aún.",
+    "result": null
+  },
+  {
+    "date": "2026-07-19",
+    "cp": "pre",
+    "up": 12,
+    "down": 60,
+    "flat": 28,
+    "bias": "down",
+    "conv": 65,
+    "ifm": 20,
+    "notes": "Fuertemente bajista: guerra activa EEUU-Irán (8ª noche), 2 militares de EEUU muertos y 1 desaparecido en ataque a base de Jordania, MOU suspendido por Irán, más rout de semis (SOX/SMH -6% semanal); sin dato overnight real de NQ por cierre de fin de semana.",
+    "result": null
+  },
+  {
+    "date": "2026-07-19",
+    "cp": "update",
+    "up": 12,
+    "down": 60,
+    "flat": 28,
+    "bias": "down",
+    "conv": 65,
+    "ifm": 20,
+    "notes": "Sin cambios materiales confirmados desde el informe de 14:45; futuros CME siguen cerrados (reabren ~00:00 CEST) y no hay overnight de NQ. Escalada EEUU-Irán y rout de semis se mantienen como tesis vigente sin nuevos catalizadores verificados.",
+    "result": null
+  },
+  {
     "date": "2026-07-20",
     "cp": "update",
     "up": 50,
@@ -45,6 +105,18 @@
     "conv": 56,
     "ifm": 60,
     "notes": "Moderación frente al 'pre': VIX sube de 17.87 a ~18.8, se confirman 3 militares de EEUU muertos (antes 2) con Hegseth compareciendo hoy ante el Senado, y el IRGC de Iran afirma sin confirmar haber atacado el centro de datos de Amazon en Bahrein; NQ, SP500, DXY y petroleo sin cambios materiales.",
+    "result": null
+  },
+  {
+    "date": "2026-07-21",
+    "cp": "update",
+    "up": 57,
+    "down": 19,
+    "flat": 24,
+    "bias": "up",
+    "conv": 58,
+    "ifm": 62,
+    "notes": "Tercer corte del dia (16:22 CEST): frente al 'pre' (14:47), precio sin cambios (Nasdaq +0.9%, VIX 17.75 tras ida y vuelta via 18.8), pero conviccion e IFM moderan ligeramente por riesgos no confirmados (ataque IRGC no verificado a centro de datos de Amazon en Bahrein, 3a baja de EEUU, comparecencia de Hegseth por financiacion de guerra de 87600M$).",
     "result": null
   }
 ]
