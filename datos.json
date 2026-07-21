@@ -82,5 +82,17 @@
     "ifm": 58,
     "notes": "Moderación leve frente al checkpoint 'pre': ganancias de índices y de AMD algo más contenidas (Nasdaq +0.8% vs +1% intradía previo, AMD +2.56% vs +4.5% premarket) y VIX repunta ligeramente (~18.4-18.9 vs 18.2); sesgo alcista se mantiene pero con algo menos de convicción, sin nuevo catalizador de la guerra EEUU-Irán.",
     "result": null
+  },
+  {
+    "date": "2026-07-21",
+    "cp": "pre",
+    "up": 62,
+    "down": 15,
+    "flat": 23,
+    "bias": "up",
+    "conv": 62,
+    "ifm": 68,
+    "notes": "Sesgo claramente alcista: NQ +1.34% premarket, segundo dia de rebote fuerte en semiconductores (MU +6%, SOXQ +4.3%), VIX se desploma a 17.5 (-6.2%) y GM/3M baten y elevan guidance, pese a la 10a noche de guerra EEUU-Iran y un petrolero alcanzado en Ormuz.",
+    "result": null
   }
 ]
