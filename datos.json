@@ -61,18 +61,6 @@
   },
   {
     "date": "2026-07-20",
-    "cp": "pre",
-    "up": 55,
-    "down": 20,
-    "flat": 25,
-    "bias": "up",
-    "conv": 60,
-    "ifm": 62,
-    "notes": "Rebote alcista tras el rout de semis: futuros NQ +0.76% premarket y Nasdaq Composite +1% intradia, VIX cede a 18.2, pese a 9a noche de escalada EEUU-Iran y SOXX en mercado bajista tecnico (-20% desde el pico de junio).",
-    "result": null
-  },
-  {
-    "date": "2026-07-20",
     "cp": "update",
     "up": 50,
     "down": 24,
@@ -84,15 +72,75 @@
     "result": null
   },
   {
+    "date": "2026-07-20",
+    "cp": "pre",
+    "up": 52,
+    "down": 23,
+    "flat": 25,
+    "bias": "up",
+    "conv": 52,
+    "ifm": 59,
+    "notes": "Tercera lectura del día (~19:15 CEST, tras un nuevo disparador programado que se ejecutó ya con el mercado abierto): sesgo alcista se mantiene pero el índice general modera (Nasdaq Composite +0.40%) mientras los semis aceleran (SOX +2.37%) por mejoras de recomendación sobre AMD; VIX cae a su mínimo del día (17.94) y el petróleo cede tras señales de posible diálogo EEUU-Irán, pese a una cifra de bajas militares de EEUU en aumento.",
+    "result": null
+  },
+  {
     "date": "2026-07-21",
     "cp": "pre",
-    "up": 62,
-    "down": 15,
-    "flat": 23,
+    "up": 58,
+    "down": 18,
+    "flat": 24,
     "bias": "up",
-    "conv": 62,
-    "ifm": 68,
-    "notes": "Sesgo claramente alcista: NQ +1.34% premarket, segundo dia de rebote fuerte en semiconductores (MU +6%, SOXQ +4.3%), VIX se desploma a 17.5 (-6.2%) y GM/3M baten y elevan guidance, pese a la 10a noche de guerra EEUU-Iran y un petrolero alcanzado en Ormuz.",
+    "conv": 60,
+    "ifm": 64,
+    "notes": "Sesgo alcista: futuros NQ +1.3%/+1.36% premarket liderados por semis (SOXQ +4.27%, Micron +6%, Nvidia tras stake del 9% en Nebius) y VIX en 17.87, pese a rendimientos del Tesoro al alza, 10a noche de guerra EEUU-Irán (con reportes de tregua de 10 dias) y nuevos aranceles del 50% a Canada.",
+    "result": "up"
+  },
+  {
+    "date": "2026-07-21",
+    "cp": "update",
+    "up": 54,
+    "down": 21,
+    "flat": 25,
+    "bias": "up",
+    "conv": 56,
+    "ifm": 60,
+    "notes": "Moderación frente al 'pre': VIX sube de 17.87 a ~18.8, se confirman 3 militares de EEUU muertos (antes 2) con Hegseth compareciendo hoy ante el Senado, y el IRGC de Iran afirma sin confirmar haber atacado el centro de datos de Amazon en Bahrein; NQ, SP500, DXY y petroleo sin cambios materiales.",
+    "result": "up"
+  },
+  {
+    "date": "2026-07-21",
+    "cp": "update",
+    "up": 57,
+    "down": 19,
+    "flat": 24,
+    "bias": "up",
+    "conv": 58,
+    "ifm": 62,
+    "notes": "Tercer corte del dia (16:22 CEST): frente al 'pre' (14:47), precio sin cambios (Nasdaq +0.9%, VIX 17.75 tras ida y vuelta via 18.8), pero conviccion e IFM moderan ligeramente por riesgos no confirmados (ataque IRGC no verificado a centro de datos de Amazon en Bahrein, 3a baja de EEUU, comparecencia de Hegseth por financiacion de guerra de 87600M$).",
+    "result": "up"
+  },
+  {
+    "date": "2026-07-22",
+    "cp": "update",
+    "up": 40,
+    "down": 32,
+    "flat": 28,
+    "bias": "flat",
+    "conv": 40,
+    "ifm": 45,
+    "notes": "Sin checkpoint 'pre' de hoy; sesgo se modera de alcista a lateral tras corrección de semis por TSMC (-5/-7% pese a batir previsiones, capex elevado a 60-64bn$), escalada belica (bajas EEUU revisadas a 17-19, amenaza de ataque al sitio nuclear 'Pickaxe Mountain') y WTI +4.2%, con foco en resultados de Alphabet y Tesla tras el cierre.",
+    "result": null
+  },
+  {
+    "date": "2026-07-22",
+    "cp": "pre",
+    "up": 20,
+    "down": 48,
+    "flat": 32,
+    "bias": "down",
+    "conv": 48,
+    "ifm": 38,
+    "notes": "Informe generado tarde (16:40 CEST, tras la apertura) usando el ultimo dato premarket confirmado: NQ -0.7/-0.77% liderando la caida junto a semis que se enfrian (Broadcom -1.69%, Nvidia -0.96%) tras el rally del martes, WTI +4.08% por comentarios de Rubio sobre Iran y amenaza de Trump al sitio nuclear 'Pickaxe Mountain', rendimientos al alza (10y 4.62%) y resultados de Alphabet y Tesla esperados tras el cierre de hoy.",
     "result": null
   }
 ]
