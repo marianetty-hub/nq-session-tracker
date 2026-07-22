@@ -22,5 +22,17 @@
     "ifm": 62,
     "notes": "Tercer corte del dia (16:22 CEST): frente al 'pre' (14:47), precio sin cambios (Nasdaq +0.9%, VIX 17.75 tras ida y vuelta via 18.8), pero conviccion e IFM moderan ligeramente por riesgos no confirmados (ataque IRGC no verificado a centro de datos de Amazon en Bahrein, 3a baja de EEUU, comparecencia de Hegseth por financiacion de guerra de 87600M$).",
     "result": "down"
+  },
+  {
+    "date": "2026-07-22",
+    "cp": "pre",
+    "up": 22,
+    "down": 48,
+    "flat": 30,
+    "bias": "down",
+    "conv": 58,
+    "ifm": 36,
+    "notes": "Sesgo bajista: NQ futuro -0.86% premarket revirtiendo el rebote de ayer, petroleo WTI +4.68% (~95$) por 11a noche de ataques EEUU-Iran, rendimientos del Tesoro elevados (10a ~4.60-4.63%) y VIX en 17.62 (+3.35%), con Nvidia/Intel en rojo y cautela previa a resultados de Alphabet y Tesla tras el cierre.",
+    "result": null
   }
 ]
