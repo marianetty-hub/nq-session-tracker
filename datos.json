@@ -154,5 +154,17 @@
     "ifm": 38,
     "notes": "Segundo corte 'pre' del dia (16:40 CEST, ejecucion tardia de la tarea programada, ya con el mercado de contado abierto): confirma el sesgo bajista del primer 'pre' (14:46 CEST) sin datos intradia en tiempo real propios; NQ -0.7/-0.77% y semis enfriandose (Broadcom -1.69%, Nvidia -0.96%) tras el rally del martes, WTI +4.08% por comentarios de Rubio sobre Iran y amenaza de Trump al sitio nuclear 'Pickaxe Mountain', rendimientos al alza (10y 4.62%) y resultados de Alphabet y Tesla esperados tras el cierre de hoy.",
     "result": null
+  },
+  {
+    "date": "2026-07-22",
+    "cp": "update",
+    "up": 25,
+    "down": 45,
+    "flat": 30,
+    "bias": "down",
+    "conv": 45,
+    "ifm": 33,
+    "notes": "Frente al 'pre' mas reciente (segundo corte, 16:40 CEST): indices generales aguantan mejor de lo temido (Dow +0.3%, SP500 plano, Nasdaq Composite -0.3% vs -0.7/-0.77% premarket) pero semis siguen presionados (-1.7% intradia) por un catalizador nuevo no visto en ningun 'pre' de hoy: TSMC bate previsiones pero cae 5-7% por capex elevado a 60-64bn$; tambien nuevo: cifra de bajas EEUU revisada a 17-19, Meta +6% premarket por subarriendo de datacenters. Colision de nombre con una entrada 'update' previa (16:41 CEST, 40/32/28) de una ejecucion concurrente que no vio el 'pre' del dia; ambas quedan preservadas en el historico.",
+    "result": null
   }
 ]
