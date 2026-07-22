@@ -33,7 +33,7 @@
     "conv": 58,
     "ifm": 36,
     "notes": "Sesgo bajista: NQ futuro -0.86% premarket revirtiendo el rebote de ayer, petroleo WTI +4.68% (~95$) por 11a noche de ataques EEUU-Iran, rendimientos del Tesoro elevados (10a ~4.60-4.63%) y VIX en 17.62 (+3.35%), con Nvidia/Intel en rojo y cautela previa a resultados de Alphabet y Tesla tras el cierre.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-07-22",
@@ -45,6 +45,6 @@
     "conv": 45,
     "ifm": 33,
     "notes": "Frente al 'pre' de 14:46 CEST: indices generales aguantan mejor de lo temido (Dow +0.3%, SP500 plano, Nasdaq Composite -0.3% vs -0.7/-0.77% premarket) pero semis siguen presionados (-1.7% intradia) por un catalizador nuevo: TSMC bate previsiones pero cae 5-7% por capex elevado a 60-64bn$; tambien nuevo: cifra de bajas EEUU revisada a 17-19, Meta +6% premarket por subarriendo de datacenters.",
-    "result": null
+    "result": "down"
   }
 ]
