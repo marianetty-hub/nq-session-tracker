@@ -1,89 +1,5 @@
 [
   {
-    "date": "2026-07-18",
-    "cp": "update",
-    "up": 20,
-    "down": 45,
-    "flat": 35,
-    "bias": "down",
-    "conv": 40,
-    "ifm": 35,
-    "notes": "Sin checkpoint 'pre' de referencia hoy (sábado, mercados cerrados); sesgo bajista de continuación tras el rout de semis del viernes y la escalada EEUU-Irán.",
-    "result": null
-  },
-  {
-    "date": "2026-07-18",
-    "cp": "pre",
-    "up": 20,
-    "down": 45,
-    "flat": 35,
-    "bias": "down",
-    "conv": 55,
-    "ifm": 38,
-    "notes": "Sesgo bajista: rout de semis (SOX -9% semanal) tras Kimi K3 de Moonshot y escalada EEUU-Irán en Ormuz (WTI +14% semanal); sin dato overnight real por cierre de fin de semana.",
-    "result": null
-  },
-  {
-    "date": "2026-07-19",
-    "cp": "update",
-    "up": 18,
-    "down": 50,
-    "flat": 32,
-    "bias": "down",
-    "conv": 45,
-    "ifm": 30,
-    "notes": "Sin checkpoint 'pre' de hoy (mercados cerrados, futuros aún sin reabrir); sesgo bajista reforzado tras 2 militares de EEUU muertos en Jordania y ruptura del memorando Irán-EEUU, sin confirmación de precio aún.",
-    "result": null
-  },
-  {
-    "date": "2026-07-19",
-    "cp": "pre",
-    "up": 12,
-    "down": 60,
-    "flat": 28,
-    "bias": "down",
-    "conv": 65,
-    "ifm": 20,
-    "notes": "Fuertemente bajista: guerra activa EEUU-Irán (8ª noche), 2 militares de EEUU muertos y 1 desaparecido en ataque a base de Jordania, MOU suspendido por Irán, más rout de semis (SOX/SMH -6% semanal); sin dato overnight real de NQ por cierre de fin de semana.",
-    "result": null
-  },
-  {
-    "date": "2026-07-19",
-    "cp": "update",
-    "up": 12,
-    "down": 60,
-    "flat": 28,
-    "bias": "down",
-    "conv": 65,
-    "ifm": 20,
-    "notes": "Sin cambios materiales confirmados desde el informe de 14:45; futuros CME siguen cerrados (reabren ~00:00 CEST) y no hay overnight de NQ. Escalada EEUU-Irán y rout de semis se mantienen como tesis vigente sin nuevos catalizadores verificados.",
-    "result": null
-  },
-  {
-    "date": "2026-07-20",
-    "cp": "update",
-    "up": 50,
-    "down": 24,
-    "flat": 26,
-    "bias": "up",
-    "conv": 55,
-    "ifm": 58,
-    "notes": "Moderación leve frente al checkpoint 'pre': ganancias de índices y de AMD algo más contenidas (Nasdaq +0.8% vs +1% intradía previo, AMD +2.56% vs +4.5% premarket) y VIX repunta ligeramente (~18.4-18.9 vs 18.2); sesgo alcista se mantiene pero con algo menos de convicción, sin nuevo catalizador de la guerra EEUU-Irán.",
-    "result": null
-  },
-  {
-    "date": "2026-07-20",
-    "cp": "pre",
-    "up": 52,
-    "down": 23,
-    "flat": 25,
-    "bias": "up",
-    "conv": 52,
-    "ifm": 59,
-    "notes": "Tercera lectura del día (~19:15 CEST, tras un nuevo disparador programado que se ejecutó ya con el mercado abierto): sesgo alcista se mantiene pero el índice general modera (Nasdaq Composite +0.40%) mientras los semis aceleran (SOX +2.37%) por mejoras de recomendación sobre AMD; VIX cae a su mínimo del día (17.94) y el petróleo cede tras señales de posible diálogo EEUU-Irán, pese a una cifra de bajas militares de EEUU en aumento.",
-    "result": null
-  },
-  {
     "date": "2026-07-21",
     "cp": "pre",
     "up": 58,
@@ -93,19 +9,7 @@
     "conv": 60,
     "ifm": 64,
     "notes": "Sesgo alcista: futuros NQ +1.3%/+1.36% premarket liderados por semis (SOXQ +4.27%, Micron +6%, Nvidia tras stake del 9% en Nebius) y VIX en 17.87, pese a rendimientos del Tesoro al alza, 10a noche de guerra EEUU-Irán (con reportes de tregua de 10 dias) y nuevos aranceles del 50% a Canada.",
-    "result": "up"
-  },
-  {
-    "date": "2026-07-21",
-    "cp": "update",
-    "up": 54,
-    "down": 21,
-    "flat": 25,
-    "bias": "up",
-    "conv": 56,
-    "ifm": 60,
-    "notes": "Moderación frente al 'pre': VIX sube de 17.87 a ~18.8, se confirman 3 militares de EEUU muertos (antes 2) con Hegseth compareciendo hoy ante el Senado, y el IRGC de Iran afirma sin confirmar haber atacado el centro de datos de Amazon en Bahrein; NQ, SP500, DXY y petroleo sin cambios materiales.",
-    "result": "up"
+    "result": "down"
   },
   {
     "date": "2026-07-21",
@@ -117,19 +21,7 @@
     "conv": 58,
     "ifm": 62,
     "notes": "Tercer corte del dia (16:22 CEST): frente al 'pre' (14:47), precio sin cambios (Nasdaq +0.9%, VIX 17.75 tras ida y vuelta via 18.8), pero conviccion e IFM moderan ligeramente por riesgos no confirmados (ataque IRGC no verificado a centro de datos de Amazon en Bahrein, 3a baja de EEUU, comparecencia de Hegseth por financiacion de guerra de 87600M$).",
-    "result": "up"
-  },
-  {
-    "date": "2026-07-22",
-    "cp": "update",
-    "up": 40,
-    "down": 32,
-    "flat": 28,
-    "bias": "flat",
-    "conv": 40,
-    "ifm": 45,
-    "notes": "Sin checkpoint 'pre' de hoy; sesgo se modera de alcista a lateral tras corrección de semis por TSMC (-5/-7% pese a batir previsiones, capex elevado a 60-64bn$), escalada belica (bajas EEUU revisadas a 17-19, amenaza de ataque al sitio nuclear 'Pickaxe Mountain') y WTI +4.2%, con foco en resultados de Alphabet y Tesla tras el cierre.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-07-22",
@@ -145,18 +37,6 @@
   },
   {
     "date": "2026-07-22",
-    "cp": "pre",
-    "up": 20,
-    "down": 48,
-    "flat": 32,
-    "bias": "down",
-    "conv": 48,
-    "ifm": 38,
-    "notes": "Segundo corte 'pre' del dia (16:40 CEST, ejecucion tardia de la tarea programada, ya con el mercado de contado abierto): confirma el sesgo bajista del primer 'pre' (14:46 CEST) sin datos intradia en tiempo real propios; NQ -0.7/-0.77% y semis enfriandose (Broadcom -1.69%, Nvidia -0.96%) tras el rally del martes, WTI +4.08% por comentarios de Rubio sobre Iran y amenaza de Trump al sitio nuclear 'Pickaxe Mountain', rendimientos al alza (10y 4.62%) y resultados de Alphabet y Tesla esperados tras el cierre de hoy.",
-    "result": null
-  },
-  {
-    "date": "2026-07-22",
     "cp": "update",
     "up": 25,
     "down": 45,
@@ -164,7 +44,7 @@
     "bias": "down",
     "conv": 45,
     "ifm": 33,
-    "notes": "Frente al 'pre' mas reciente (segundo corte, 16:40 CEST): indices generales aguantan mejor de lo temido (Dow +0.3%, SP500 plano, Nasdaq Composite -0.3% vs -0.7/-0.77% premarket) pero semis siguen presionados (-1.7% intradia) por un catalizador nuevo no visto en ningun 'pre' de hoy: TSMC bate previsiones pero cae 5-7% por capex elevado a 60-64bn$; tambien nuevo: cifra de bajas EEUU revisada a 17-19, Meta +6% premarket por subarriendo de datacenters. Colision de nombre con una entrada 'update' previa (16:41 CEST, 40/32/28) de una ejecucion concurrente que no vio el 'pre' del dia; ambas quedan preservadas en el historico.",
+    "notes": "Frente al 'pre' de 14:46 CEST: indices generales aguantan mejor de lo temido (Dow +0.3%, SP500 plano, Nasdaq Composite -0.3% vs -0.7/-0.77% premarket) pero semis siguen presionados (-1.7% intradia) por un catalizador nuevo: TSMC bate previsiones pero cae 5-7% por capex elevado a 60-64bn$; tambien nuevo: cifra de bajas EEUU revisada a 17-19, Meta +6% premarket por subarriendo de datacenters.",
     "result": null
   }
 ]
