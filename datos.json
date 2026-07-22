@@ -34,5 +34,17 @@
     "ifm": 36,
     "notes": "Sesgo bajista: NQ futuro -0.86% premarket revirtiendo el rebote de ayer, petroleo WTI +4.68% (~95$) por 11a noche de ataques EEUU-Iran, rendimientos del Tesoro elevados (10a ~4.60-4.63%) y VIX en 17.62 (+3.35%), con Nvidia/Intel en rojo y cautela previa a resultados de Alphabet y Tesla tras el cierre.",
     "result": null
+  },
+  {
+    "date": "2026-07-22",
+    "cp": "update",
+    "up": 20,
+    "down": 50,
+    "flat": 30,
+    "bias": "down",
+    "conv": 56,
+    "ifm": 34,
+    "notes": "Actualizacion 15:22 CEST: sesgo bajista se refuerza ligeramente (48->50% bajista, IFM 36->34) por nuevo bloqueo maritimo huti a Arabia Saudi (Bab el-Mandeb) y ampliacion de semis en rojo (se suman Broadcom y Micron a Nvidia/Intel), pese a que el VIX mejora (17.62->17.34) y el % de subida del petroleo se modera; bonos y dolar sin cambios; AT&T bate BPA (+2.6%) mientras Alphabet y Tesla siguen pendientes de reportar tras el cierre.",
+    "result": null
   }
 ]
