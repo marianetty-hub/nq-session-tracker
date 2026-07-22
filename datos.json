@@ -134,13 +134,25 @@
   {
     "date": "2026-07-22",
     "cp": "pre",
+    "up": 22,
+    "down": 48,
+    "flat": 30,
+    "bias": "down",
+    "conv": 58,
+    "ifm": 36,
+    "notes": "Sesgo bajista: NQ futuro -0.86% premarket revirtiendo el rebote de ayer, petroleo WTI +4.68% (~95$) por 11a noche de ataques EEUU-Iran, rendimientos del Tesoro elevados (10a ~4.60-4.63%) y VIX en 17.62 (+3.35%), con Nvidia/Intel en rojo y cautela previa a resultados de Alphabet y Tesla tras el cierre.",
+    "result": null
+  },
+  {
+    "date": "2026-07-22",
+    "cp": "pre",
     "up": 20,
     "down": 48,
     "flat": 32,
     "bias": "down",
     "conv": 48,
     "ifm": 38,
-    "notes": "Informe generado tarde (16:40 CEST, tras la apertura) usando el ultimo dato premarket confirmado: NQ -0.7/-0.77% liderando la caida junto a semis que se enfrian (Broadcom -1.69%, Nvidia -0.96%) tras el rally del martes, WTI +4.08% por comentarios de Rubio sobre Iran y amenaza de Trump al sitio nuclear 'Pickaxe Mountain', rendimientos al alza (10y 4.62%) y resultados de Alphabet y Tesla esperados tras el cierre de hoy.",
+    "notes": "Segundo corte 'pre' del dia (16:40 CEST, ejecucion tardia de la tarea programada, ya con el mercado de contado abierto): confirma el sesgo bajista del primer 'pre' (14:46 CEST) sin datos intradia en tiempo real propios; NQ -0.7/-0.77% y semis enfriandose (Broadcom -1.69%, Nvidia -0.96%) tras el rally del martes, WTI +4.08% por comentarios de Rubio sobre Iran y amenaza de Trump al sitio nuclear 'Pickaxe Mountain', rendimientos al alza (10y 4.62%) y resultados de Alphabet y Tesla esperados tras el cierre de hoy.",
     "result": null
   }
 ]
