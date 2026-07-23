@@ -57,7 +57,7 @@
     "conv": 60,
     "ifm": 32,
     "notes": "Sesgo bajista: NQ -0.48% premarket lastrado por Alphabet (-3.3/-3.6%) y Tesla (-5.4/-5.5%) tras elevar fuertemente su capex de IA, semiconductores en negativo generalizado (Nvidia, AMD, Micron, TSMC) y WTI +3.3% por nueva escalada geopolitica (investigacion sobre posible papel ruso en ataques a instalaciones de la CIA, no verificado); informe generado 15 min despues de la apertura de contado por retraso de la tarea programada.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-07-23",
@@ -69,6 +69,6 @@
     "conv": 62,
     "ifm": 30,
     "notes": "Frente al 'pre' (15:45 CEST): sesgo bajista se profundiza, NQ futuro amplia caida de -0.48% a -0.85% (igual S&P/Dow), VIX con sesgo al alza (17.7-18 vs 16.64 inicial) y petroleo sigue presionando al alza aunque su nivel exacto no se ha podido reconciliar entre fuentes (89.66$ segun Benzinga/pre vs ~99-100$ segun Saxo/Tickmill/Al Jazeera/Upstox, narrativas distintas: investigacion Rusia-Iran sobre ataques a instalaciones de la CIA vs ataque huti a petroleros saudies); tambien discrepancia no resuelta en DXY (~101 vs ~98 segun fuente); sin reversion de Alphabet/Tesla ni moderacion de rendimientos (10a estable en 4.65-4.66%).",
-    "result": null
+    "result": "down"
   }
 ]
