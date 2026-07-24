@@ -70,5 +70,17 @@
     "ifm": 30,
     "notes": "Frente al 'pre' (15:45 CEST): sesgo bajista se profundiza, NQ futuro amplia caida de -0.48% a -0.85% (igual S&P/Dow), VIX con sesgo al alza (17.7-18 vs 16.64 inicial) y petroleo sigue presionando al alza aunque su nivel exacto no se ha podido reconciliar entre fuentes (89.66$ segun Benzinga/pre vs ~99-100$ segun Saxo/Tickmill/Al Jazeera/Upstox, narrativas distintas: investigacion Rusia-Iran sobre ataques a instalaciones de la CIA vs ataque huti a petroleros saudies); tambien discrepancia no resuelta en DXY (~101 vs ~98 segun fuente); sin reversion de Alphabet/Tesla ni moderacion de rendimientos (10a estable en 4.65-4.66%).",
     "result": "down"
+  },
+  {
+    "date": "2026-07-24",
+    "cp": "update",
+    "up": 35,
+    "down": 25,
+    "flat": 40,
+    "bias": "flat",
+    "conv": 45,
+    "ifm": 40,
+    "notes": "Actualizacion 15:38 CEST (sin 'pre' de hoy para comparar): mercado en modo estabilizacion tras peor sesion del S&P500 en un mes, Dow +0.1%/S&P plano/Nasdaq Composite -0.1% en apertura, petroleo retrocede desde 100$ y aranceles Section 301 (10-12.5%) entran en vigor.",
+    "result": null
   }
 ]
