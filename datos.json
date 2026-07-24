@@ -73,6 +73,18 @@
   },
   {
     "date": "2026-07-24",
+    "cp": "pre",
+    "up": 35,
+    "down": 31,
+    "flat": 34,
+    "bias": "flat",
+    "conv": 40,
+    "ifm": 48,
+    "notes": "Sesgo lateral: NQ futuro practicamente plano en premercado (+0.04/0.05%) y Nasdaq Composite abre -0.1% tras el desplome del jueves (Magnificent Seven -~800.000M$, peor dia desde abril 2025 por capex de IA de Alphabet/Tesla), con rendimientos del Tesoro elevados pero estabilizandose (10a ~4.69%), nuevos aranceles del 10-12.5% a 60 socios comerciales, semis mixtos (TSMC +4.57% e Intel +3.6/4.16% vs Micron a la baja) y petroleo con datos discordantes entre fuentes (Brent ~98$ vs ~100.26$ segun fuente); informe cerrado ~15 min despues de la apertura de contado por retraso de la tarea programada; nota: el checkpoint 'update' de hoy (15:38 CEST) se genero antes que este 'pre' por ejecucion concurrente de otra automatizacion, sin poder compararse entre si en el momento de cada informe.",
+    "result": null
+  },
+  {
+    "date": "2026-07-24",
     "cp": "update",
     "up": 35,
     "down": 25,
