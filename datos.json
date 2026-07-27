@@ -94,5 +94,17 @@
     "ifm": 40,
     "notes": "Actualizacion 15:38 CEST (sin 'pre' de hoy para comparar): mercado en modo estabilizacion tras peor sesion del S&P500 en un mes, Dow +0.1%/S&P plano/Nasdaq Composite -0.1% en apertura, petroleo retrocede desde 100$ y aranceles Section 301 (10-12.5%) entran en vigor.",
     "result": "down"
+  },
+  {
+    "date": "2026-07-27",
+    "cp": "pre",
+    "up": 60,
+    "down": 15,
+    "flat": 25,
+    "bias": "up",
+    "conv": 58,
+    "ifm": 68,
+    "notes": "Fuerte sesgo alcista premercado: NQ +1.33% (28.659,75) tras segundo dia de pausa en el conflicto EEUU-Iran que hundio el petroleo Brent bajo 90$/barril (-6/7%), semis selectivos y Apple (+3.53%) en verde y el 10 anos relajandose a 4.64%, aunque persiste cautela por la decision de la Fed del miercoles con la probabilidad de pausa cayendo del 87.2% al 64.2% en una semana.",
+    "result": null
   }
 ]
