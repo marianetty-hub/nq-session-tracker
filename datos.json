@@ -105,7 +105,7 @@
     "conv": 58,
     "ifm": 68,
     "notes": "Fuerte sesgo alcista premercado: NQ +1.33% (28.659,75) tras segundo dia de pausa en el conflicto EEUU-Iran que hundio el petroleo Brent bajo 90$/barril (-6/7%), semis selectivos y Apple (+3.53%) en verde y el 10 anos relajandose a 4.64%, aunque persiste cautela por la decision de la Fed del miercoles con la probabilidad de pausa cayendo del 87.2% al 64.2% en una semana.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-07-27",
@@ -117,6 +117,6 @@
     "conv": 55,
     "ifm": 65,
     "notes": "Sesgo alcista sin cambios frente al 'pre' (NQ +1.38% vs +1.33%, petroleo y bonos estables, Irán-Omán sin ruptura), pero conviccion e IFM moderan levemente porque el fuerte tiron premercado de Apple se desinflo a +0.25/0.35% (desde +3.53%) y el dato de duraderos de junio sigue sin confirmarse a las puertas de la apertura.",
-    "result": null
+    "result": "down"
   }
 ]
