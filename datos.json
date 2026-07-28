@@ -118,5 +118,17 @@
     "ifm": 65,
     "notes": "Sesgo alcista sin cambios frente al 'pre' (NQ +1.38% vs +1.33%, petroleo y bonos estables, Irán-Omán sin ruptura), pero conviccion e IFM moderan levemente porque el fuerte tiron premercado de Apple se desinflo a +0.25/0.35% (desde +3.53%) y el dato de duraderos de junio sigue sin confirmarse a las puertas de la apertura.",
     "result": "down"
+  },
+  {
+    "date": "2026-07-28",
+    "cp": "pre",
+    "up": 18,
+    "down": 47,
+    "flat": 35,
+    "bias": "down",
+    "conv": 55,
+    "ifm": 36,
+    "notes": "Sesgo bajista: NQ futuro ~-1% premercado por fuerte selloff de semiconductores (Nvidia, AMD, Intel, Micron) contagiado del desplome de Kospi/SK Hynix/Samsung (-10 a -15%) por temores de circular financing en IA y avances chinos en litografia DUV, mientras el Dow sube +0.6% (Coca-Cola bate) y el petroleo sigue cayendo por la tregua EEUU-Iran; convicion moderada por la divergencia Dow/Nasdaq y la cautela previa a la decision de la Fed manana 29/07.",
+    "result": null
   }
 ]
