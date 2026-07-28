@@ -130,5 +130,17 @@
     "ifm": 36,
     "notes": "Sesgo bajista: NQ futuro ~-1% premercado por fuerte selloff de semiconductores (Nvidia, AMD, Intel, Micron) contagiado del desplome de Kospi/SK Hynix/Samsung (-10 a -15%) por temores de circular financing en IA y avances chinos en litografia DUV, mientras el Dow sube +0.6% (Coca-Cola bate) y el petroleo sigue cayendo por la tregua EEUU-Iran; convicion moderada por la divergencia Dow/Nasdaq y la cautela previa a la decision de la Fed manana 29/07.",
     "result": null
+  },
+  {
+    "date": "2026-07-28",
+    "cp": "update",
+    "up": 22,
+    "down": 43,
+    "flat": 35,
+    "bias": "down",
+    "conv": 52,
+    "ifm": 40,
+    "notes": "Sesgo bajista se mantiene pero se modera frente al 'pre' (14:46): NQ recorta caida de -1% a -0.66%, S&P gira a positivo (+0.11%) y Dow amplia avance (+0.90%), aunque el selloff de semis confirma mas nombres afectados (Broadcom, TSMC) y Boeing publica perdida mayor de lo esperado (aunque sube en premercado) de cara a la decision de la Fed manana 29/07.",
+    "result": null
   }
 ]
