@@ -154,5 +154,17 @@
     "ifm": 46,
     "notes": "Sesgo lateral: NQ futuro +0.3% premercado pese a semis (Nvidia, AMD, Micron, SanDisk) aun a la baja tras entrar el Nasdaq-100 en correccion tecnica, con la decision de tipos de la Fed hoy (20:00 CEST, probabilidad de subida inusualmente alta ~35-37%) y resultados de Microsoft/Meta tras el cierre generando maxima incertidumbre; petroleo elevado tras intento de ataque con misiles de Iran el martes (interceptado).",
     "result": null
+  },
+  {
+    "date": "2026-07-29",
+    "cp": "update",
+    "up": 26,
+    "down": 34,
+    "flat": 40,
+    "bias": "flat",
+    "conv": 35,
+    "ifm": 44,
+    "notes": "Frente al 'pre' (14:47 CEST): sesgo lateral se mantiene pero se inclina mas hacia bajista (bajista 28%->34%) sin noticias nuevas confirmadas, tras un giro del NQ futuro de +0.3% a -0.14% y perdida de la fortaleza relativa de Apple (de +1.02% a practicamente plano), a 7 minutos de la apertura de contado y a la espera de la decision de la Fed (20:00 CEST) y resultados de Microsoft/Meta tras el cierre.",
+    "result": null
   }
 ]
