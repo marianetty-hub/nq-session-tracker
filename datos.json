@@ -142,5 +142,17 @@
     "ifm": 40,
     "notes": "Sesgo bajista se mantiene pero se modera frente al 'pre' (14:46): NQ recorta caida de -1% a -0.66%, S&P gira a positivo (+0.11%) y Dow amplia avance (+0.90%), aunque el selloff de semis confirma mas nombres afectados (Broadcom, TSMC) y Boeing publica perdida mayor de lo esperado (aunque sube en premercado) de cara a la decision de la Fed manana 29/07.",
     "result": "down"
+  },
+  {
+    "date": "2026-07-29",
+    "cp": "pre",
+    "up": 32,
+    "down": 28,
+    "flat": 40,
+    "bias": "flat",
+    "conv": 38,
+    "ifm": 46,
+    "notes": "Sesgo lateral: NQ futuro +0.3% premercado pese a semis (Nvidia, AMD, Micron, SanDisk) aun a la baja tras entrar el Nasdaq-100 en correccion tecnica, con la decision de tipos de la Fed hoy (20:00 CEST, probabilidad de subida inusualmente alta ~35-37%) y resultados de Microsoft/Meta tras el cierre generando maxima incertidumbre; petroleo elevado tras intento de ataque con misiles de Iran el martes (interceptado).",
+    "result": null
   }
 ]
