@@ -27,3 +27,12 @@ up + down + flat deben sumar 100. No sobrescribas entradas de fechas anteriores,
 Nota de histórico (2026-07-21): las entradas anteriores al 2026-07-21 (18-20/07) eran datos de pruebas de configuración del sistema, no sesiones reales, y el usuario las eliminó deliberadamente de datos.json. Si en una ejecución futura datos.json aparece con menos entradas históricas de las esperadas, NO asumas que se trata de una pérdida de datos ni las reconstruyas automáticamente a partir de commits antiguos: es el estado intencional. Ante cualquier duda sobre el histórico, pregunta o indícalo en el informe en vez de restaurar datos por tu cuenta.
 
 AVISO IMPORTANTE (2026-07-22): este repo puede recibir ejecuciones concurrentes desde dos sistemas de automatización distintos (rutinas de Claude Code y tareas programadas de Cowork) apuntando a los mismos checkpoints horarios. Si tu copia local/checkout no está actualizada con el último commit de origin/main antes de escribir, NO hagas commit de tu versión desactualizada de CLAUDE.md ni de datos.json — haz primero `git pull`/re-clona en limpio, y si hay conflicto, conserva la versión de origin/main para CLAUDE.md y para las entradas ya existentes, añadiendo solo tu entrada nueva del checkpoint de hoy. Nunca resuelvas un conflicto de merge quedándote con una versión antigua completa de estos dos ficheros.
+
+REGLA DE BLINDAJE (obligatoria, sin excepciones):
+Antes de ejecutar `git commit`, SIEMPRE ejecuta primero:
+    node scripts/validar-datos.js
+Si el script termina con código de error (falla), NO hagas commit ni push.
+En su lugar, revierte tus cambios locales a datos.json (`git checkout -- datos.json`)
+y reporta en el informe: "Bloqueado por blindaje de fechas pasadas".
+Esta regla aplica a las tres rutinas (1445, 1520, 2215) sin excepción,
+incluso si crees tener una buena razón para tocar una fecha pasada.
