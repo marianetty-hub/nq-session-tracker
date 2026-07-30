@@ -9,7 +9,7 @@
     "conv": 60,
     "ifm": 64,
     "notes": "Sesgo alcista: futuros NQ +1.3%/+1.36% premarket liderados por semis (SOXQ +4.27%, Micron +6%, Nvidia tras stake del 9% en Nebius) y VIX en 17.87, pese a rendimientos del Tesoro al alza, 10a noche de guerra EEUU-Irán (con reportes de tregua de 10 dias) y nuevos aranceles del 50% a Canada.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-21",
@@ -21,7 +21,7 @@
     "conv": 58,
     "ifm": 62,
     "notes": "Tercer corte del dia (16:22 CEST): frente al 'pre' (14:47), precio sin cambios (Nasdaq +0.9%, VIX 17.75 tras ida y vuelta via 18.8), pero conviccion e IFM moderan ligeramente por riesgos no confirmados (ataque IRGC no verificado a centro de datos de Amazon en Bahrein, 3a baja de EEUU, comparecencia de Hegseth por financiacion de guerra de 87600M$).",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-22",
@@ -33,7 +33,7 @@
     "conv": 58,
     "ifm": 36,
     "notes": "Sesgo bajista: NQ futuro -0.86% premarket revirtiendo el rebote de ayer, petroleo WTI +4.68% (~95$) por 11a noche de ataques EEUU-Iran, rendimientos del Tesoro elevados (10a ~4.60-4.63%) y VIX en 17.62 (+3.35%), con Nvidia/Intel en rojo y cautela previa a resultados de Alphabet y Tesla tras el cierre.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-22",
@@ -45,7 +45,7 @@
     "conv": 45,
     "ifm": 33,
     "notes": "Frente al 'pre' de 14:46 CEST: indices generales aguantan mejor de lo temido (Dow +0.3%, SP500 plano, Nasdaq Composite -0.3% vs -0.7/-0.77% premarket) pero semis siguen presionados (-1.7% intradia) por un catalizador nuevo: TSMC bate previsiones pero cae 5-7% por capex elevado a 60-64bn$; tambien nuevo: cifra de bajas EEUU revisada a 17-19, Meta +6% premarket por subarriendo de datacenters.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-23",
@@ -57,7 +57,7 @@
     "conv": 60,
     "ifm": 32,
     "notes": "Sesgo bajista: NQ -0.48% premarket lastrado por Alphabet (-3.3/-3.6%) y Tesla (-5.4/-5.5%) tras elevar fuertemente su capex de IA, semiconductores en negativo generalizado (Nvidia, AMD, Micron, TSMC) y WTI +3.3% por nueva escalada geopolitica (investigacion sobre posible papel ruso en ataques a instalaciones de la CIA, no verificado); informe generado 15 min despues de la apertura de contado por retraso de la tarea programada.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-23",
@@ -69,7 +69,7 @@
     "conv": 62,
     "ifm": 30,
     "notes": "Frente al 'pre' (15:45 CEST): sesgo bajista se profundiza, NQ futuro amplia caida de -0.48% a -0.85% (igual S&P/Dow), VIX con sesgo al alza (17.7-18 vs 16.64 inicial) y petroleo sigue presionando al alza aunque su nivel exacto no se ha podido reconciliar entre fuentes (89.66$ segun Benzinga/pre vs ~99-100$ segun Saxo/Tickmill/Al Jazeera/Upstox, narrativas distintas: investigacion Rusia-Iran sobre ataques a instalaciones de la CIA vs ataque huti a petroleros saudies); tambien discrepancia no resuelta en DXY (~101 vs ~98 segun fuente); sin reversion de Alphabet/Tesla ni moderacion de rendimientos (10a estable en 4.65-4.66%).",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-24",
@@ -81,7 +81,7 @@
     "conv": 40,
     "ifm": 48,
     "notes": "Sesgo lateral: NQ futuro practicamente plano en premercado (+0.04/0.05%) y Nasdaq Composite abre -0.1% tras el desplome del jueves (Magnificent Seven -~800.000M$, peor dia desde abril 2025 por capex de IA de Alphabet/Tesla), con rendimientos del Tesoro elevados pero estabilizandose (10a ~4.69%), nuevos aranceles del 10-12.5% a 60 socios comerciales, semis mixtos (TSMC +4.57% e Intel +3.6/4.16% vs Micron a la baja) y petroleo con datos discordantes entre fuentes (Brent ~98$ vs ~100.26$ segun fuente); informe cerrado ~15 min despues de la apertura de contado por retraso de la tarea programada; nota: el checkpoint 'update' de hoy (15:38 CEST) se genero antes que este 'pre' por ejecucion concurrente de otra automatizacion, sin poder compararse entre si en el momento de cada informe.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-24",
@@ -93,7 +93,7 @@
     "conv": 45,
     "ifm": 40,
     "notes": "Actualizacion 15:38 CEST (sin 'pre' de hoy para comparar): mercado en modo estabilizacion tras peor sesion del S&P500 en un mes, Dow +0.1%/S&P plano/Nasdaq Composite -0.1% en apertura, petroleo retrocede desde 100$ y aranceles Section 301 (10-12.5%) entran en vigor.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-27",
@@ -105,7 +105,7 @@
     "conv": 58,
     "ifm": 68,
     "notes": "Fuerte sesgo alcista premercado: NQ +1.33% (28.659,75) tras segundo dia de pausa en el conflicto EEUU-Iran que hundio el petroleo Brent bajo 90$/barril (-6/7%), semis selectivos y Apple (+3.53%) en verde y el 10 anos relajandose a 4.64%, aunque persiste cautela por la decision de la Fed del miercoles con la probabilidad de pausa cayendo del 87.2% al 64.2% en una semana.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-27",
@@ -117,7 +117,7 @@
     "conv": 55,
     "ifm": 65,
     "notes": "Sesgo alcista sin cambios frente al 'pre' (NQ +1.38% vs +1.33%, petroleo y bonos estables, Irán-Omán sin ruptura), pero conviccion e IFM moderan levemente porque el fuerte tiron premercado de Apple se desinflo a +0.25/0.35% (desde +3.53%) y el dato de duraderos de junio sigue sin confirmarse a las puertas de la apertura.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-28",
@@ -129,7 +129,7 @@
     "conv": 55,
     "ifm": 36,
     "notes": "Sesgo bajista: NQ futuro ~-1% premercado por fuerte selloff de semiconductores (Nvidia, AMD, Intel, Micron) contagiado del desplome de Kospi/SK Hynix/Samsung (-10 a -15%) por temores de circular financing en IA y avances chinos en litografia DUV, mientras el Dow sube +0.6% (Coca-Cola bate) y el petroleo sigue cayendo por la tregua EEUU-Iran; convicion moderada por la divergencia Dow/Nasdaq y la cautela previa a la decision de la Fed manana 29/07.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-28",
@@ -141,7 +141,7 @@
     "conv": 52,
     "ifm": 40,
     "notes": "Sesgo bajista se mantiene pero se modera frente al 'pre' (14:46): NQ recorta caida de -1% a -0.66%, S&P gira a positivo (+0.11%) y Dow amplia avance (+0.90%), aunque el selloff de semis confirma mas nombres afectados (Broadcom, TSMC) y Boeing publica perdida mayor de lo esperado (aunque sube en premercado) de cara a la decision de la Fed manana 29/07.",
-    "result": "down"
+    "result": null
   },
   {
     "date": "2026-07-29",
@@ -192,3 +192,4 @@
     "result": null
   }
 ]
+ 
