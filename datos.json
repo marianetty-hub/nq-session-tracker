@@ -166,5 +166,17 @@
     "ifm": 44,
     "notes": "Frente al 'pre' (14:47 CEST): sesgo lateral se mantiene pero se inclina mas hacia bajista (bajista 28%->34%) sin noticias nuevas confirmadas, tras un giro del NQ futuro de +0.3% a -0.14% y perdida de la fortaleza relativa de Apple (de +1.02% a practicamente plano), a 7 minutos de la apertura de contado y a la espera de la decision de la Fed (20:00 CEST) y resultados de Microsoft/Meta tras el cierre.",
     "result": null
+  },
+  {
+    "date": "2026-07-30",
+    "cp": "pre",
+    "up": 55,
+    "down": 18,
+    "flat": 27,
+    "bias": "up",
+    "conv": 55,
+    "ifm": 60,
+    "notes": "Sesgo alcista: NQ futuro +1.58% premercado tras corregir tecnicamente el miercoles, impulsado por resultado de Microsoft muy superior a lo esperado (Azure +43%, +8-9% premercado) y rally de semis (SOXX +3%), pese al desplome de Meta (-8.5/-9% por fallo en BPA y FCF -91%), rendimientos del Tesoro en maximos plurianuales y nuevos ataques de EEUU contra Irán esta madrugada tras el mantenimiento de tipos de la Fed ayer (9-3).",
+    "result": null
   }
 ]
