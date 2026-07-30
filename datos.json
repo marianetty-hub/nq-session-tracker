@@ -178,5 +178,17 @@
     "ifm": 60,
     "notes": "Sesgo alcista: NQ futuro +1.58% premercado tras corregir tecnicamente el miercoles, impulsado por resultado de Microsoft muy superior a lo esperado (Azure +43%, +8-9% premercado) y rally de semis (SOXX +3%), pese al desplome de Meta (-8.5/-9% por fallo en BPA y FCF -91%), rendimientos del Tesoro en maximos plurianuales y nuevos ataques de EEUU contra Irán esta madrugada tras el mantenimiento de tipos de la Fed ayer (9-3).",
     "result": null
+  },
+  {
+    "date": "2026-07-30",
+    "cp": "update",
+    "up": 40,
+    "down": 27,
+    "flat": 33,
+    "bias": "up",
+    "conv": 48,
+    "ifm": 54,
+    "notes": "Frente al 'pre' (14:48 CEST): sesgo alcista se mantiene pero se debilita tras el PIB del 2T muy por debajo de lo esperado (+1.5% vs +2.1%), que hace que el NQ futuro recorte su avance de +1.58% a +0.7% y el bono a 30 anos marque nuevo maximo multi-decenal (~5.24%); se suma una escalada Iran-Kuwait (ataque con drones reivindicado por el IRGC, civiles muertos sin confirmar por fuente occidental) no conocida en el informe pre, aunque el VIX sigue cayendo y el PCE subyacente vino algo mas frio de lo esperado.",
+    "result": null
   }
 ]
