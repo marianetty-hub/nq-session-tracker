@@ -15,12 +15,12 @@ function leerJSONDeGit(ref, ruta) {
     const contenido = execSync(`git show ${ref}:${ruta}`, { encoding: 'utf8' });
     return JSON.parse(contenido);
   } catch (e) {
-    return null; // no existía en ese ref (primer commit, etc.)
+    return null;
   }
 }
 
 function clave(entrada) {
-  return `${entrada.fecha}__${entrada.checkpoint}`;
+  return `${entrada.date}__${entrada.cp}`;
 }
 
 function main() {
@@ -36,14 +36,13 @@ function main() {
     process.exit(0);
   }
 
-  const mapaAnterior = new Map(anterior.entradas.map(e => [clave(e), e]));
-  const mapaNuevo = new Map(nuevo.entradas.map(e => [clave(e), e]));
+  const mapaAnterior = new Map(anterior.map(e => [clave(e), e]));
+  const mapaNuevo = new Map(nuevo.map(e => [clave(e), e]));
 
   const errores = [];
 
-  // 1. Nada de fechas pasadas puede desaparecer ni cambiar
   for (const [k, entradaVieja] of mapaAnterior) {
-    if (entradaVieja.fecha === hoy) continue; // hoy sí se puede tocar
+    if (entradaVieja.date === hoy) continue;
     const entradaNueva = mapaNuevo.get(k);
     if (!entradaNueva) {
       errores.push(`Entrada eliminada indebidamente: ${k}`);
@@ -54,9 +53,8 @@ function main() {
     }
   }
 
-  // 2. No pueden aparecer entradas NUEVAS cuya fecha no sea hoy
   for (const [k, entradaNueva] of mapaNuevo) {
-    if (entradaNueva.fecha === hoy) continue;
+    if (entradaNueva.date === hoy) continue;
     if (!mapaAnterior.has(k)) {
       errores.push(`Entrada nueva con fecha pasada (prohibido): ${k}`);
     }
