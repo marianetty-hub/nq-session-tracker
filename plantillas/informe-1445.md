@@ -86,6 +86,10 @@ Dow
 
 Russell
 
+PRECIO_REF_NQ: <número exacto, sin rango, sin símbolo, ej: 27342.00>
+Si no existe un precio limpio y reconciliado disponible, escribe:
+PRECIO_REF_NQ: NO_DISPONIBLE
+
 ---------------------------------------------------
 4. CONTEXTO INTERMERCADO
 ---------------------------------------------------
