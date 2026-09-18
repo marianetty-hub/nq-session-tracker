@@ -1072,5 +1072,18 @@
     "ref_price": 29786.75,
     "notes": "Sesgo alcista moderado: NQ +1.16% (29786.75) impulsado por fuerte rally premarket de semiconductores (SMH +2.9%, ARM +9.9%, INTC +8.5%, AMD +6.3%, MU +5.9%) y del Magnificent Seven (+1.4%/+3.8%) en continuidad del rebote post-Fed del 16/09, con VIX estable en minimos (15.55) y petroleo WTI desplomandose -5.15% (96.66$) sin catalizador confirmado, pese al oleoducto este-oeste saudi aun cerrado por el ataque del 10/09; el 10 anos repunta levemente a 4.97% (cerca de maximos desde 2007) y el 2 anos solo dispone de dato retrasado del cierre del 17/09 (~4.40%, no reconciliado con el 4.744% citado en el informe previo); agenda macro de hoy limitada a Produccion Industrial (15:15 CEST) segun el calendario oficial de la Fed, sin poder confirmar peticiones de desempleo/PMI para la fecha exacta.",
     "result": null
+  },
+  {
+    "date": "2026-09-18",
+    "cp": "update",
+    "up": 52,
+    "down": 20,
+    "flat": 28,
+    "bias": "up",
+    "conv": 48,
+    "ifm": 58,
+    "ref_price": null,
+    "notes": "Frente al 'pre' (14:50 CEST): sesgo alcista se mantiene pero se modera, NQ practicamente congelado (29787.25 vs 29786.75, +1.16% en ambos casos), mientras Alphabet (+1.30% vs +3.76%) y Meta (+1.34% vs +2.57%) retroceden con claridad desde sus maximos premarket y el 10 anos sube un poco mas (4.98% vs 4.971%); semis puros (SMH, AMD, TSMC, Nvidia) se mantienen firmes cerca de niveles del pre; petroleo WTI recorta parte de su caida (-4.4% vs -5.15% frente al cierre del 17/09) pero surge catalizador confirmado no visto en el pre (CNBC 16/09 y Bloomberg 14/09: Secretario de Energia de EEUU dice que el oleoducto saudi danado reabrira en dias), sin confirmar reapertura efectiva hoy; dato de Produccion Industrial (15:15 CEST) aun sin confirmar en fuentes consultadas; sin resultados nuevos publicados desde el pre.",
+    "result": null
   }
 ]
