@@ -1097,7 +1097,7 @@
     "ifm": 68,
     "ref_price": 30228.25,
     "notes": "Sesgo alcista: NQ +2.08% (30228.25) cerca de maximos overnight, confirmado por ES/YM/RTY (+1.06% a +1.46%), con WTI desplomandose -6.72% (recuperacion exportaciones saudies + expectativas diplomacia EEUU-Iran), VIX en minimos de varias semanas (14.87) y 10 anos cediendo a 4.959%; se suma el optimismo ante la cumbre Trump-Xi (23-25/09 Washington DC); modera la conviccion la falta de dato premarket reconciliado de hoy en semis/Magnificent Seven (solo cierre del 18/09) y el dato de 2 anos retrasado (ultima actualizacion 09/09).",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-09-21",
@@ -1110,6 +1110,6 @@
     "ifm": 70,
     "ref_price": null,
     "notes": "Frente al 'pre' (14:49 CEST): sesgo alcista se mantiene y mejora levemente, NQ practicamente sin cambio (+2.069% vs +2.075%, 30226.25), petroleo amplia caida (-7.19% vs -6.72%), VIX y DXY estables, 10 anos sube muy levemente (4.967% vs 4.959%); catalizador nuevo confirmado: Bessent califica conversaciones EEUU-China de 'muy exitosas' y propone dialogo de seguridad en IA antes de la cumbre Trump-Xi del 24/09, y varias fuentes de prensa apuntan a posible aplazamiento del paquete de armas de 14.000M$ a Taiwan, reduciendo el riesgo de cancelacion de la cumbre senalado en el pre; Goolsbee habla en Londres (OMFIF) sin mover mercado; sin dato premarket reconciliado nuevo de Nvidia/Microsoft/Apple/Amazon/Meta/Alphabet/AMD/Broadcom (identico al cierre del 18/09 citado en el pre), TSMC muestra dato distinto (440.22 vs 434.67) no reconciliado con segunda fuente; sin resultados publicados desde el pre.",
-    "result": null
+    "result": "up"
   }
 ]
