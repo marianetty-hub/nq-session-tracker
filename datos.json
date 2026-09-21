@@ -1085,5 +1085,18 @@
     "ref_price": null,
     "notes": "Frente al 'pre' (14:50 CEST): sesgo alcista se mantiene pero se modera, NQ practicamente congelado (29787.25 vs 29786.75, +1.16% en ambos casos), mientras Alphabet (+1.30% vs +3.76%) y Meta (+1.34% vs +2.57%) retroceden con claridad desde sus maximos premarket y el 10 anos sube un poco mas (4.98% vs 4.971%); semis puros (SMH, AMD, TSMC, Nvidia) se mantienen firmes cerca de niveles del pre; petroleo WTI recorta parte de su caida (-4.4% vs -5.15% frente al cierre del 17/09) pero surge catalizador confirmado no visto en el pre (CNBC 16/09 y Bloomberg 14/09: Secretario de Energia de EEUU dice que el oleoducto saudi danado reabrira en dias), sin confirmar reapertura efectiva hoy; dato de Produccion Industrial (15:15 CEST) aun sin confirmar en fuentes consultadas; sin resultados nuevos publicados desde el pre.",
     "result": "up"
+  },
+  {
+    "date": "2026-09-21",
+    "cp": "pre",
+    "up": 58,
+    "down": 14,
+    "flat": 28,
+    "bias": "up",
+    "conv": 54,
+    "ifm": 68,
+    "ref_price": 30228.25,
+    "notes": "Sesgo alcista: NQ +2.08% (30228.25) cerca de maximos overnight, confirmado por ES/YM/RTY (+1.06% a +1.46%), con WTI desplomandose -6.72% (recuperacion exportaciones saudies + expectativas diplomacia EEUU-Iran), VIX en minimos de varias semanas (14.87) y 10 anos cediendo a 4.959%; se suma el optimismo ante la cumbre Trump-Xi (23-25/09 Washington DC); modera la conviccion la falta de dato premarket reconciliado de hoy en semis/Magnificent Seven (solo cierre del 18/09) y el dato de 2 anos retrasado (ultima actualizacion 09/09).",
+    "result": null
   }
 ]
