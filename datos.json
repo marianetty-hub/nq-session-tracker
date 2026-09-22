@@ -1123,7 +1123,7 @@
     "ifm": 52,
     "ref_price": 30776.25,
     "notes": "Sesgo lateral con leve inclinacion alcista: NQ practicamente plano (-0.03%, 30776.25, endpoint Yahoo Finance) rezagado frente a S&P/Dow/Russell (+0.08/+0.43/+0.68%) tras el rally historico del lunes (Nasdaq Composite +2.26%, record), apoyado por caida de rendimientos (10a -3.7pb a 4.93%) y VIX en minimos del ciclo (14.64), mas el desplome del petroleo (-5.7% WTI) por señales de deshielo diplomatico EEUU-Iran (Trump abierto a reunirse con Pezeshkian en la ONU); sin dato premarket confirmado de semis/Magnificent Seven, agenda con ADP (confirmado, moderado) y comparecencia de Barkin (Fed) a las 19:00 CEST.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-09-22",
@@ -1136,6 +1136,6 @@
     "ifm": 46,
     "ref_price": null,
     "notes": "Frente al 'pre' (14:50 CEST): sesgo lateral se mantiene pero gira de inclinacion alcista a bajista, NQ practicamente sin cambio (-0.076% vs -0.03%, 30761.50) pese a mejora en Dow (+0.58% vs +0.43%) y Russell (+0.87% vs +0.68%), tras confirmarse por primera vez hoy datos premarket de semis/Magnificent Seven: mayoria en rojo (AMD -1.51%, Intel -1.95% via fuente previa, TSMC -1.20%, Micron -1.35%, Nvidia -0.65%, Amazon -1.34%, Meta -1.48% revirtiendo parte del +11% del lunes) frente a Microsoft (+1.28%), Alphabet (+0.55%) y Apple (+0.24%) en verde; nueva incertidumbre en el Estrecho de Ormuz (Ghalibaf reitera cierre vs reportes de buques cruzando, ataque no identificado a petroleros) contrasta con la narrativa de deshielo del pre; Trump se dirige hoy a la Asamblea General de la ONU, Rubio abierto a conversaciones con Iran sin reunion confirmada; Barkin (19:00 CEST) sigue pendiente.",
-    "result": null
+    "result": "up"
   }
 ]
