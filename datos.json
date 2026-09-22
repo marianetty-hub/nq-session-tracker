@@ -1111,5 +1111,18 @@
     "ref_price": null,
     "notes": "Frente al 'pre' (14:49 CEST): sesgo alcista se mantiene y mejora levemente, NQ practicamente sin cambio (+2.069% vs +2.075%, 30226.25), petroleo amplia caida (-7.19% vs -6.72%), VIX y DXY estables, 10 anos sube muy levemente (4.967% vs 4.959%); catalizador nuevo confirmado: Bessent califica conversaciones EEUU-China de 'muy exitosas' y propone dialogo de seguridad en IA antes de la cumbre Trump-Xi del 24/09, y varias fuentes de prensa apuntan a posible aplazamiento del paquete de armas de 14.000M$ a Taiwan, reduciendo el riesgo de cancelacion de la cumbre senalado en el pre; Goolsbee habla en Londres (OMFIF) sin mover mercado; sin dato premarket reconciliado nuevo de Nvidia/Microsoft/Apple/Amazon/Meta/Alphabet/AMD/Broadcom (identico al cierre del 18/09 citado en el pre), TSMC muestra dato distinto (440.22 vs 434.67) no reconciliado con segunda fuente; sin resultados publicados desde el pre.",
     "result": "up"
+  },
+  {
+    "date": "2026-09-22",
+    "cp": "pre",
+    "up": 37,
+    "down": 24,
+    "flat": 39,
+    "bias": "flat",
+    "conv": 34,
+    "ifm": 52,
+    "ref_price": 30776.25,
+    "notes": "Sesgo lateral con leve inclinacion alcista: NQ practicamente plano (-0.03%, 30776.25, endpoint Yahoo Finance) rezagado frente a S&P/Dow/Russell (+0.08/+0.43/+0.68%) tras el rally historico del lunes (Nasdaq Composite +2.26%, record), apoyado por caida de rendimientos (10a -3.7pb a 4.93%) y VIX en minimos del ciclo (14.64), mas el desplome del petroleo (-5.7% WTI) por señales de deshielo diplomatico EEUU-Iran (Trump abierto a reunirse con Pezeshkian en la ONU); sin dato premarket confirmado de semis/Magnificent Seven, agenda con ADP (confirmado, moderado) y comparecencia de Barkin (Fed) a las 19:00 CEST.",
+    "result": null
   }
 ]
