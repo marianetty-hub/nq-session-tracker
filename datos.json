@@ -1147,7 +1147,7 @@
     "bias": "down",
     "conv": 42,
     "ifm": 50,
-    "ref_price": 30956.00,
+    "ref_price": 30956.0,
     "notes": "Retroceso generalizado y moderado en indices (NQ -0.23%, ES -0.10%, YM -0.26%, RTY -0.47%) por repunte del 10 anos (+2.5pb a 4.988%), sin datos premarket confirmados de semis/Mag7 (cierre 22/09 mixto: fuerte en semis puros, debil en resto de Mag7); VIX bajo (14.30) y desplome del petroleo (-3.98%) actuan de contrapeso, y la cumbre Trump-Xi en Washington reduce riesgo geopolitico de fondo tras indicios de aplazamiento del paquete de armas a Taiwan.",
     "result": "down"
   },
@@ -1163,5 +1163,18 @@
     "ref_price": null,
     "notes": "Frente al 'pre' (14:39 CEST): sesgo bajista leve se mantiene sin cambio de fondo, NQ practicamente igual (-0.25% vs -0.23%, 30952.00), pero Dow (-0.38% vs -0.26%) y Russell (-0.58% vs -0.47%) profundizan su retroceso mientras 10 anos y VIX quedan planos y el petroleo rebota levemente (+0.35%); sigue sin dato premarket fresco de semis/Mag7 y el catalizador clave (PMI Flash EEUU, 15:45 CEST) aun no se ha publicado.",
     "result": "down"
+  },
+  {
+    "date": "2026-09-24",
+    "cp": "pre",
+    "up": 20,
+    "down": 48,
+    "flat": 32,
+    "bias": "down",
+    "conv": 58,
+    "ifm": 42,
+    "ref_price": 30431.5,
+    "notes": "Sesgo bajista: NQ -1.08% (30431.50) con retroceso generalizado en ES/YM/RTY, tras subida del 10 anos a ~5.12% (maximo desde 2007) por PMI flash fuerte y subasta de deuda debil, VIX al alza (15.18-15.99 segun fuente) y dolar/petroleo fortaleciendose; contrapeso parcial de la extension de la tregua comercial EEUU-China (hasta 10/01/2027) confirmada en la cumbre Trump-Xi de hoy; sin dato premarket reconciliado de semis/Magnificent Seven.",
+    "result": null
   }
 ]
