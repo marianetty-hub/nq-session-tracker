@@ -1175,7 +1175,7 @@
     "ifm": 42,
     "ref_price": 30431.5,
     "notes": "Sesgo bajista: NQ -1.08% (30431.50) con retroceso generalizado en ES/YM/RTY, tras subida del 10 anos a ~5.12% (maximo desde 2007) por PMI flash fuerte y subasta de deuda debil, VIX al alza (15.18-15.99 segun fuente) y dolar/petroleo fortaleciendose; contrapeso parcial de la extension de la tregua comercial EEUU-China (hasta 10/01/2027) confirmada en la cumbre Trump-Xi de hoy; sin dato premarket reconciliado de semis/Magnificent Seven.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-09-24",
@@ -1188,6 +1188,6 @@
     "ifm": 45,
     "ref_price": null,
     "notes": "Frente al 'pre' (14:36 CEST): sesgo bajista se mantiene pero se suaviza, NQ recorta caida de -1.08% a -0.80% (30519.50), VIX confirma la parte alta del rango del pre (15.97, +5.13-5.25% segun fuente) y el 10 anos se mantiene estable en ~5.12%; jobless claims (197K) confirmados en niveles historicamente bajos y Meta presenta gafas VR y estrategia de monetizacion de Muse AI (app top iOS/Android), sin dato fresco reconciliado del resto de semis/Magnificent Seven ni resultado adicional confirmado de la cumbre Trump-Xi.",
-    "result": null
+    "result": "up"
   }
 ]
