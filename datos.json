@@ -1201,7 +1201,7 @@
     "ifm": 56,
     "ref_price": 30910.75,
     "notes": "Sesgo alcista moderado: NQ +0.47% (30910.75) cerca de maximos overnight, apoyado por caida del petroleo tras oferta de Iran de reabrir el Estrecho de Ormuz; contrapeso del 10 anos en maximos desde 2007 (~5.17%) y sentimiento del consumidor de Michigan (final) pendiente con caida esperada; sin dato premarket reconciliado de semis/Magnificent Seven ni de VIX/DXY/2 anos de hoy.",
-    "result": null
+    "result": "flat"
   },
   {
     "date": "2026-09-25",
@@ -1214,6 +1214,6 @@
     "ifm": 58,
     "ref_price": null,
     "notes": "Frente al 'pre' (14:36 CEST): NQ practicamente plano (-0.04%, 30898.50), pero mejora leve de conviccion e IFM porque VIX (15.20, -3.00%) y DXY (100.95, -0.33%) ya tienen dato reconciliado de hoy y son moderadamente favorables; negociadores EEUU-Iran discuten en Nueva York un acuerdo por fases sobre el Estrecho de Ormuz (reportado, no confirmado oficialmente) y Meta sube ~16% en la semana tras su anuncio de agentes de IA; el 10 anos se mantiene estable (~5.175%) como contrapeso estructural; sentimiento del consumidor de Michigan (16:00 CEST) aun no publicado a la hora de este informe, tratado como pendiente.",
-    "result": null
+    "result": "flat"
   }
 ]
