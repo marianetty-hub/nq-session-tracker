@@ -1227,7 +1227,7 @@
     "ifm": 38,
     "ref_price": 30703.5,
     "notes": "Sesgo bajista moderado: NQ -0.60% (30703.50, endpoint Yahoo Finance) tras revertir por completo el gap alcista de apertura dominical (30870.00), arrastrado por escalada geopolitica confirmada (Trump rechaza propuesta de Iran de reabrir el Estrecho de Ormuz, Iran dice estar listo para diplomacia o confrontacion militar) que dispara petroleo (WTI +1.8/+4.0% segun fuente) y rendimientos (10a ~5.21-5.23%, +5/7pb), con VIX al alza (~16, +8%); sin dato premarket reconciliado de hoy para semis (Broadcom/AMD/Intel/Micron/TSMC) ni de la mayoria de Magnificent Seven salvo Nvidia (ampliacion de recompra a 235.000M$, positivo idiosincratico) y Meta (-3.1%, motivo no confirmado); calendario macro ligero (Dallas Fed Manufacturing, subasta de letras del Tesoro).",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-09-28",
@@ -1240,6 +1240,6 @@
     "ifm": 36,
     "ref_price": null,
     "notes": "Frente al 'pre' (14:51 CEST): NQ practicamente plano (30707.25, -0.589%) pero el SP500 mejora (-0.35% vs -0.59% en el pre), divergencia negativa para el NQ por catalizador nuevo confirmado (pausa de entrenamiento de OpenAI tras incidente de seguridad, multiples fuentes) que presiona semis (Intel -3/-3.5%, AMD -2.5/-3%, Broadcom -1%, Nvidia entre +1.78% y -1% segun fuente no reconciliada); Iran (Araghchi) resta importancia al rechazo de Trump y dice esperar respuesta oficial, tono algo menos confrontacional sin escalada nueva; VIX, DXY y 10 anos sin cambio material frente al pre; sin dato premarket reconciliado de Microsoft/Apple/Amazon/Alphabet y sin cifra real de resultados de Carnival (solo estimacion).",
-    "result": null
+    "result": "down"
   }
 ]
