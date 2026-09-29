@@ -1253,7 +1253,7 @@
     "ifm": 50,
     "ref_price": 30665,
     "notes": "Sesgo alcista leve y convicción baja: NQ rebota +0.32% (30665.00, Yahoo Finance) sobre el cierre previo tras la caída de ayer, con petróleo estable y 10 años en máximos (~5.23%); geopolítica EEUU-Irán sin resolución y JOLTS/confianza del consumidor a las 16:00 CEST; sin dato de VIX, DXY ni premarket de semis/Magnificent Seven.",
-    "result": null
+    "result": "flat"
   },
   {
     "date": "2026-09-29",
@@ -1266,6 +1266,6 @@
     "ifm": 50,
     "ref_price": null,
     "notes": "Sin cambios frente al pre: NQ ~30.659 (+0,30%, dato retrasado), 10 años ~5,23%, crudo algo más bajo; JOLTS y confianza del consumidor pendientes a las 16:00 CEST y sin datos fiables de tecnológicas (Yahoo bloqueado).",
-    "result": null
+    "result": "flat"
   }
 ]
