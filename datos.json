@@ -1241,5 +1241,18 @@
     "ref_price": null,
     "notes": "Frente al 'pre' (14:51 CEST): NQ practicamente plano (30707.25, -0.589%) pero el SP500 mejora (-0.35% vs -0.59% en el pre), divergencia negativa para el NQ por catalizador nuevo confirmado (pausa de entrenamiento de OpenAI tras incidente de seguridad, multiples fuentes) que presiona semis (Intel -3/-3.5%, AMD -2.5/-3%, Broadcom -1%, Nvidia entre +1.78% y -1% segun fuente no reconciliada); Iran (Araghchi) resta importancia al rechazo de Trump y dice esperar respuesta oficial, tono algo menos confrontacional sin escalada nueva; VIX, DXY y 10 anos sin cambio material frente al pre; sin dato premarket reconciliado de Microsoft/Apple/Amazon/Alphabet y sin cifra real de resultados de Carnival (solo estimacion).",
     "result": "down"
+  },
+  {
+    "date": "2026-09-29",
+    "cp": "pre",
+    "up": 38,
+    "down": 30,
+    "flat": 32,
+    "bias": "up",
+    "conv": 35,
+    "ifm": 50,
+    "ref_price": 30665.0,
+    "notes": "Sesgo alcista leve y convicción baja: NQ rebota +0.32% (30665.00, Yahoo Finance) sobre el cierre previo tras la caída de ayer, con petróleo estable y 10 años en máximos (~5.23%); geopolítica EEUU-Irán sin resolución y JOLTS/confianza del consumidor a las 16:00 CEST; sin dato de VIX, DXY ni premarket de semis/Magnificent Seven.",
+    "result": null
   }
 ]
