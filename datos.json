@@ -1267,5 +1267,18 @@
     "ref_price": null,
     "notes": "Sin cambios frente al pre: NQ ~30.659 (+0,30%, dato retrasado), 10 años ~5,23%, crudo algo más bajo; JOLTS y confianza del consumidor pendientes a las 16:00 CEST y sin datos fiables de tecnológicas (Yahoo bloqueado).",
     "result": "flat"
+  },
+  {
+    "date": "2026-09-30",
+    "cp": "pre",
+    "up": 38,
+    "down": 28,
+    "flat": 34,
+    "bias": "up",
+    "conv": 38,
+    "ifm": 52,
+    "ref_price": 30738.5,
+    "notes": "Sesgo alcista leve y convicción baja: NQ 30738.50 (+0.41%, Yahoo casi tiempo real) con VIX ~15.8 y 10 años ~5.21% cediendo desde máximos; PCE core (cons. 3.3%) y PIB a las 14:30 CEST, Micron tras el cierre; guerra Irán y crudo ~90-95 USD; prensa muestra futuros NQ ligeramente negativos (discrepancia).",
+    "result": null
   }
 ]
