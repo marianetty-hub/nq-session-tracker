@@ -1280,5 +1280,18 @@
     "ref_price": 30738.5,
     "notes": "Sesgo alcista leve y convicción baja: NQ 30738.50 (+0.41%, Yahoo casi tiempo real) con VIX ~15.8 y 10 años ~5.21% cediendo desde máximos; PCE core (cons. 3.3%) y PIB a las 14:30 CEST, Micron tras el cierre; guerra Irán y crudo ~90-95 USD; prensa muestra futuros NQ ligeramente negativos (discrepancia).",
     "result": null
+  },
+  {
+    "date": "2026-09-30",
+    "cp": "update",
+    "up": 42,
+    "down": 24,
+    "flat": 34,
+    "bias": "up",
+    "conv": 42,
+    "ifm": 55,
+    "ref_price": null,
+    "notes": "Sesgo alcista algo más firme: PCE core 3,0% vs 3,3% esperado (fuente secundaria), 10A ~5,22% y VIX ~15,8 a la baja, NQ 30753 (+0,46%) casi sin cambio desde las 14:45; pendientes Micron y crudo ~90,7.",
+    "result": null
   }
 ]
