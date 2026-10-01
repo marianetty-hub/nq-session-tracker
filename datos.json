@@ -1305,7 +1305,7 @@
     "ifm": 55,
     "ref_price": 30874.75,
     "notes": "Sesgo alcista leve: NQ 30874.75 (+0,57%, Yahoo casi tiempo real) apoyado por Micron (beat y guía alcista) y VIX ~16,3, frenado por 10A ~5,29% y crudo ~91,5; ISM a las 16:00 CEST y varios Fed speakers; sin datos de 2Y, DXY ni Mag7.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-10-01",
@@ -1318,6 +1318,6 @@
     "ifm": 55,
     "ref_price": null,
     "notes": "Sesgo alcista leve sin cambio material desde las 14:45: claims 197k (mejor que 200k), NQ ~+0,5%, 10A ~5,30%, VIX ~16,4; pendientes ISM 16:00 y Fed speakers.",
-    "result": null
+    "result": "down"
   }
 ]
