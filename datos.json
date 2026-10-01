@@ -1293,5 +1293,18 @@
     "ref_price": null,
     "notes": "Sesgo alcista algo más firme: PCE core 3,0% vs 3,3% esperado (fuente secundaria), 10A ~5,22% y VIX ~15,8 a la baja, NQ 30753 (+0,46%) casi sin cambio desde las 14:45; pendientes Micron y crudo ~90,7.",
     "result": "flat"
+  },
+  {
+    "date": "2026-10-01",
+    "cp": "pre",
+    "up": 42,
+    "down": 28,
+    "flat": 30,
+    "bias": "up",
+    "conv": 40,
+    "ifm": 55,
+    "ref_price": 30874.75,
+    "notes": "Sesgo alcista leve: NQ 30874.75 (+0,57%, Yahoo casi tiempo real) apoyado por Micron (beat y guía alcista) y VIX ~16,3, frenado por 10A ~5,29% y crudo ~91,5; ISM a las 16:00 CEST y varios Fed speakers; sin datos de 2Y, DXY ni Mag7.",
+    "result": null
   }
 ]
