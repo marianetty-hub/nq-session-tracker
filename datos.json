@@ -1319,5 +1319,18 @@
     "ref_price": null,
     "notes": "Sesgo alcista leve sin cambio material desde las 14:45: claims 197k (mejor que 200k), NQ ~+0,5%, 10A ~5,30%, VIX ~16,4; pendientes ISM 16:00 y Fed speakers.",
     "result": "down"
+  },
+  {
+    "date": "2026-10-02",
+    "cp": "pre",
+    "up": 48,
+    "down": 22,
+    "flat": 30,
+    "bias": "up",
+    "conv": 45,
+    "ifm": 60,
+    "ref_price": 31114.5,
+    "notes": "Sesgo alcista: nóminas sept. 29k vs 90k esperado, 10A ~5,16% (-7 pb), VIX ~15,7 y crudo ~89,3 a la baja con NQ 31114,5 (+1,15%) cerca del máximo de 52 semanas 31151,5; sin datos de 2Y, DXY, salarios ni Mag7 completos.",
+    "result": null
   }
 ]
