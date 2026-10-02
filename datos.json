@@ -1331,7 +1331,7 @@
     "ifm": 60,
     "ref_price": 31114.5,
     "notes": "Sesgo alcista: nóminas sept. 29k vs 90k esperado, 10A ~5,16% (-7 pb), VIX ~15,7 y crudo ~89,3 a la baja con NQ 31114,5 (+1,15%) cerca del máximo de 52 semanas 31151,5; sin datos de 2Y, DXY, salarios ni Mag7 completos.",
-    "result": null
+    "result": "flat"
   },
   {
     "date": "2026-10-02",
@@ -1344,6 +1344,6 @@
     "ifm": 61,
     "ref_price": null,
     "notes": "Sesgo alcista sin cambio de escenario: NQ 31167,25 (+0,17% vs 14:45) sobre el máximo de 52 semanas previo, VIX 15,6, 10A ~5,18% (+2 pb), semis más firmes; Fed hike octubre ~16%.",
-    "result": null
+    "result": "flat"
   }
 ]
