@@ -1358,5 +1358,18 @@
     "ref_price": 31101.25,
     "notes": "Sesgo alcista leve: NQ 31101,25 (+0,43%) con VIX 14,88 a la baja, 10A 5,25% y crudo ~91,5 como freno; informe tardío (18:45 CEST) y sin calendario, noticias ni Mag7 verificados.",
     "result": null
+  },
+  {
+    "date": "2026-10-09",
+    "cp": "update",
+    "up": 44,
+    "down": 26,
+    "flat": 30,
+    "bias": "up",
+    "conv": 38,
+    "ifm": 55,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario vs pre: sesgo alcista leve (rebote tech, VIX 14,9) frenado por 10A ~5,25%, crudo alto y Michigan débil (46,3); sin NQ nuevo, dólar ni Mag7 verificados.",
+    "result": null
   }
 ]
