@@ -1383,7 +1383,7 @@
     "ifm": 50,
     "ref_price": 31039.5,
     "notes": "Sesgo lateral de baja convicción: NQ 31039,50 (−0,22%) casi plano con ES/YM, bonos USA cerrados (Columbus Day), crudo ~93,6 y CPI del miércoles como freno; sin premarket, calendario horario ni gamma verificados.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-10-12",
@@ -1396,6 +1396,6 @@
     "ifm": 51,
     "ref_price": null,
     "notes": "Sin cambio de escenario vs pre: sesgo lateral de baja convicción; NQ 31.074,5 (+0,11% vs pre), VIX 15,4 y crudo/dólar estables; bonos USA cerrados, sin noticias ni resultados verificados.",
-    "result": null
+    "result": "down"
   }
 ]
