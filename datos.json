@@ -1410,5 +1410,18 @@
     "ref_price": 30683.5,
     "notes": "Sesgo bajista de convicción moderada: NQ 30683,50 (−0,70%) divergente de ES/YM/RTY tras fuerte caída de semis el lunes (SOXX −2,4%, MU −7%); 10A 5,19% a la baja y VIX 15,3; calendario, noticias y premarket no verificados.",
     "result": null
+  },
+  {
+    "date": "2026-10-13",
+    "cp": "update",
+    "up": 24,
+    "down": 43,
+    "flat": 33,
+    "bias": "down",
+    "conv": 40,
+    "ifm": 42,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario vs pre: sesgo bajista de convicción moderada; NQ 30.655,25 (−0,09% vs referencia, −0,79% en el día) con ES/RTY planos, VIX 15,3 y crudo/dólar estables; sin noticias ni resultados verificados.",
+    "result": null
   }
 ]
