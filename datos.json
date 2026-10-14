@@ -1423,5 +1423,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario vs pre: sesgo bajista de convicción moderada; NQ 30.655,25 (−0,09% vs referencia, −0,79% en el día) con ES/RTY planos, VIX 15,3 y crudo/dólar estables; sin noticias ni resultados verificados.",
     "result": "up"
+  },
+  {
+    "date": "2026-10-14",
+    "cp": "pre",
+    "up": 22,
+    "down": 46,
+    "flat": 32,
+    "bias": "down",
+    "conv": 42,
+    "ifm": 38,
+    "ref_price": 30594.75,
+    "notes": "Sesgo bajista de convicción moderada: NQ 30594,75 (−0,64%) con debilidad amplia (ES −0,4%, RTY −1,9%), 10A 5,27% al alza, WTI +4% y DXY +0,5%; calendario, noticias y premarket no verificados.",
+    "result": null
   }
 ]
