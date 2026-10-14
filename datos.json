@@ -1435,7 +1435,7 @@
     "ifm": 38,
     "ref_price": 30594.75,
     "notes": "Sesgo bajista de convicción moderada: NQ 30594,75 (−0,64%) con debilidad amplia (ES −0,4%, RTY −1,9%), 10A 5,27% al alza, WTI +4% y DXY +0,5%; calendario, noticias y premarket no verificados.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-10-14",
@@ -1448,6 +1448,6 @@
     "ifm": 37,
     "ref_price": null,
     "notes": "Sin cambio de escenario vs pre: sesgo bajista de convicción moderada; NQ 30.587,50 (−0,02% vs referencia) con 10A al alza (5,325%), VIX 15,8 y dólar algo más firmes; sin noticias, calendario ni premarket verificados.",
-    "result": null
+    "result": "down"
   }
 ]
