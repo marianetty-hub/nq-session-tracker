@@ -1487,7 +1487,7 @@
     "ifm": 38,
     "ref_price": 30096.5,
     "notes": "Sesgo bajista de convicción moderada-baja: NQ 30096,50 (−0,16%) con debilidad relativa frente a ES/YM/RTY, semis en cuarta caída seguida (SMH −7,4%) y 10A en 5,10%, atenuado por VIX 16,0, DXY y petróleo a la baja; calendario, noticias y premarket no verificados.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-10-16",
@@ -1500,6 +1500,6 @@
     "ifm": 38,
     "ref_price": null,
     "notes": "Sin cambio de escenario vs pre: sesgo bajista de convicción moderada-baja; NQ 30.070,25 (−0,09% vs referencia), VIX 15,86 y DXY algo menores, 10A 5,114% algo mayor; sin noticias ni resultados verificados.",
-    "result": null
+    "result": "down"
   }
 ]
