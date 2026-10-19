@@ -1514,5 +1514,18 @@
     "ref_price": 29778.25,
     "notes": "Sesgo alcista de convicción baja: NQ 29778,25 (+1,32%) rebota tras caída del viernes con VIX 18,59 y petróleo a la baja, pero semis (SMH −10,5% en 5 sesiones) y 10A 5,098% pesan; calendario, noticias y premarket no verificados.",
     "result": null
+  },
+  {
+    "date": "2026-10-19",
+    "cp": "update",
+    "up": 38,
+    "down": 32,
+    "flat": 30,
+    "bias": "up",
+    "conv": 30,
+    "ifm": 46,
+    "ref_price": null,
+    "notes": "Sin cambios desde las 14:45: NQ 29.779,75 (+1,32%), VIX 18,32 y 10A 5,102%; sin noticias, calendario ni premarket verificados, sesgo alcista leve y convicción baja.",
+    "result": null
   }
 ]
