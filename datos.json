@@ -1539,7 +1539,7 @@
     "ifm": 40,
     "ref_price": 29519.25,
     "notes": "Sesgo bajista de convicción baja: NQ 29519,25 (−0,68%) devuelve parte del rebote del lunes con VIX 19,09 y WTI 100,10 al alza; semis rebotaron el lunes, 10A 5,081%; calendario, noticias y premarket no verificados.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-10-20",
@@ -1552,6 +1552,6 @@
     "ifm": 42,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 29.612,25 (−0,37%) recupera ~93 pts desde las 14:45 y VIX baja a 18,60, pero 10A sube a 5,102% y WTI ~99,60; noticias, calendario y premarket no verificados.",
-    "result": null
+    "result": "up"
   }
 ]
