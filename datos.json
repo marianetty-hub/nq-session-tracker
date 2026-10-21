@@ -1566,5 +1566,18 @@
     "ref_price": 29866.5,
     "notes": "Sesgo alcista de convicción baja: NQ 29866,50 (+0,64%) supera a ES/YM/RTY (~+0,3%) con VIX 17,26, WTI 97,80 a la baja y 10A 5,096%; semis mixtos el martes; calendario, noticias y premarket no verificados.",
     "result": null
+  },
+  {
+    "date": "2026-10-21",
+    "cp": "update",
+    "up": 45,
+    "down": 20,
+    "flat": 35,
+    "bias": "up",
+    "conv": 42,
+    "ifm": 60,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario: NQ 29.852,75 (−13,75 pts vs 14:45), VIX baja a 17,11 y semis firmes en premarket (NVDA +1,8%, AMD +2,1%, TSM +1,8%); noticias, calendario y resultados no verificados.",
+    "result": null
   }
 ]
