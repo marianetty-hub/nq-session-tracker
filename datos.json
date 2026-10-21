@@ -1553,5 +1553,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 29.612,25 (−0,37%) recupera ~93 pts desde las 14:45 y VIX baja a 18,60, pero 10A sube a 5,102% y WTI ~99,60; noticias, calendario y premarket no verificados.",
     "result": "up"
+  },
+  {
+    "date": "2026-10-21",
+    "cp": "pre",
+    "up": 42,
+    "down": 22,
+    "flat": 36,
+    "bias": "up",
+    "conv": 40,
+    "ifm": 58,
+    "ref_price": 29866.5,
+    "notes": "Sesgo alcista de convicción baja: NQ 29866,50 (+0,64%) supera a ES/YM/RTY (~+0,3%) con VIX 17,26, WTI 97,80 a la baja y 10A 5,096%; semis mixtos el martes; calendario, noticias y premarket no verificados.",
+    "result": null
   }
 ]
