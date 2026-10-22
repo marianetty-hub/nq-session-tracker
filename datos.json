@@ -1579,5 +1579,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 29.852,75 (−13,75 pts vs 14:45), VIX baja a 17,11 y semis firmes en premarket (NVDA +1,8%, AMD +2,1%, TSM +1,8%); noticias, calendario y resultados no verificados.",
     "result": "up"
+  },
+  {
+    "date": "2026-10-22",
+    "cp": "pre",
+    "up": 25,
+    "down": 47,
+    "flat": 28,
+    "bias": "down",
+    "conv": 35,
+    "ifm": 40,
+    "ref_price": 29550.0,
+    "notes": "Sesgo bajista de convicción baja: NQ 29550,00 (−1,52% vs cierre previo 30007,00) cerca del mínimo de sesión 29417,25; bonos, VIX, semis, noticias y premarket no verificados.",
+    "result": null
   }
 ]
