@@ -1617,7 +1617,7 @@
     "ifm": 42,
     "ref_price": 29048,
     "notes": "Sesgo bajista de convicción baja: NQ 29048,00 (−0,32% vs cierre previo 29142,00) cerca del mínimo de sesión 29022,75; bonos, VIX, semis, noticias y premarket no verificados.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-10-23",
@@ -1630,6 +1630,6 @@
     "ifm": 41,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 29.034,75 (−13,25 pts vs 14:45; −0,37% vs cierre previo), a 3 pts del mínimo de sesión; bonos, VIX, semis, noticias y resultados no verificados.",
-    "result": null
+    "result": "up"
   }
 ]
