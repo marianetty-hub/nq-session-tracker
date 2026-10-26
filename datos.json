@@ -1643,7 +1643,7 @@
     "ifm": 52,
     "ref_price": 29301.88,
     "notes": "Sesgo alcista débil y convicción baja: NQ ~29301,88 (media de Investing 29280,00 y TradingView 29323,75, datos retrasados) sobre cierre previo 29117,75; Yahoo falló y el resto de factores no verificados.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-10-26",
@@ -1656,6 +1656,6 @@
     "ifm": 51,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 29.233,00 (−69 pts vs ref. del pre, +0,40% vs cierre previo), VIX 19,04, WTI −1,65%, semis firmes y Apple/Meta/Alphabet débiles; noticias no verificadas.",
-    "result": null
+    "result": "up"
   }
 ]
