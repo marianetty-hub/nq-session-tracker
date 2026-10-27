@@ -1657,5 +1657,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 29.233,00 (−69 pts vs ref. del pre, +0,40% vs cierre previo), VIX 19,04, WTI −1,65%, semis firmes y Apple/Meta/Alphabet débiles; noticias no verificadas.",
     "result": "up"
+  },
+  {
+    "date": "2026-10-27",
+    "cp": "pre",
+    "up": 42,
+    "down": 25,
+    "flat": 33,
+    "bias": "up",
+    "conv": 25,
+    "ifm": 55,
+    "ref_price": 29587.13,
+    "notes": "Sesgo alcista débil y convicción baja: NQ ~29587,13 (media de Investing 29580,00 y TradingView 29594,25, datos retrasados; Yahoo 429) sobre cierre previo 29437,25; Fed mañana y petróleo elevado; bonos/VIX no verificados.",
+    "result": null
   }
 ]
