@@ -1670,5 +1670,18 @@
     "ref_price": 29587.13,
     "notes": "Sesgo alcista débil y convicción baja: NQ ~29587,13 (media de Investing 29580,00 y TradingView 29594,25, datos retrasados; Yahoo 429) sobre cierre previo 29437,25; Fed mañana y petróleo elevado; bonos/VIX no verificados.",
     "result": null
+  },
+  {
+    "date": "2026-10-27",
+    "cp": "update",
+    "up": 42,
+    "down": 25,
+    "flat": 33,
+    "bias": "up",
+    "conv": 25,
+    "ifm": 56,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario: NQ 29.552,25 (−35 pts vs ref. del pre, +0,39% vs cierre previo), VIX 17,87, WTI −0,6%, dólar firme; Fed mañana; noticias y premarket de megacaps no verificados.",
+    "result": null
   }
 ]
