@@ -1683,5 +1683,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 29.552,25 (−35 pts vs ref. del pre, +0,39% vs cierre previo), VIX 17,87, WTI −0,6%, dólar firme; Fed mañana; noticias y premarket de megacaps no verificados.",
     "result": null
+  },
+  {
+    "date": "2026-10-28",
+    "cp": "pre",
+    "up": 40,
+    "down": 27,
+    "flat": 33,
+    "bias": "up",
+    "conv": 25,
+    "ifm": 55,
+    "ref_price": 29921,
+    "notes": "Sesgo alcista débil y convicción baja: NQ ~29.921 (mediana de Investing/RoW/TradingView, retrasado; Yahoo 429) +0,3%; Fed hoy 20:00 sin consenso publicado, WTI 102 $ y 10Y ~5,0%.",
+    "result": null
   }
 ]
