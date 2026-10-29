@@ -1721,7 +1721,7 @@
     "ifm": 38,
     "ref_price": 29594.75,
     "notes": "Sesgo bajista: NQ ~29.595 (−1,3% vs cierre 29.979,50; mediana de 3 fuentes retrasadas, Yahoo 429), GOOGL −11% y MRVL −12% en premarket, 10Y 5,0%, WTI ~102 $; GDP/PCE y Fed no verificados.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-10-29",
@@ -1734,6 +1734,6 @@
     "ifm": 38,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ ~29.560–29.628 (−1,2/−1,4%), Alphabet −13% y software débil, parcialmente compensados por WTI −2,5% y 10Y ~5,0%; GDP/PCE no verificados.",
-    "result": null
+    "result": "down"
   }
 ]
