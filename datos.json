@@ -1709,5 +1709,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 29.899,75 (−21 pts vs ref. del pre, +0,29% vs cierre previo), VIX 17,31, WTI 101,85 $, 10Y 4,99%; Fed hoy 20:00; noticias no verificadas.",
     "result": "up"
+  },
+  {
+    "date": "2026-10-29",
+    "cp": "pre",
+    "up": 20,
+    "down": 50,
+    "flat": 30,
+    "bias": "down",
+    "conv": 40,
+    "ifm": 38,
+    "ref_price": 29594.75,
+    "notes": "Sesgo bajista: NQ ~29.595 (−1,3% vs cierre 29.979,50; mediana de 3 fuentes retrasadas, Yahoo 429), GOOGL −11% y MRVL −12% en premarket, 10Y 5,0%, WTI ~102 $; GDP/PCE y Fed no verificados.",
+    "result": null
   }
 ]
