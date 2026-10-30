@@ -1738,6 +1738,19 @@
   },
   {
     "date": "2026-10-30",
+    "cp": "pre",
+    "up": 15,
+    "down": 60,
+    "flat": 25,
+    "bias": "down",
+    "conv": 50,
+    "ifm": 30,
+    "ref_price": 28768,
+    "notes": "Sesgo bajista: NQ ~28.768 (−2,4/−2,7%) tras Amazon (−7%) e Intel (−25%) según prensa; ref_price = media de 2 fuentes retrasadas (Yahoo 429); PIB 3,4% vs 3,1%, PCE sin verificar.",
+    "result": null
+  },
+  {
+    "date": "2026-10-30",
     "cp": "update",
     "up": 12,
     "down": 63,
