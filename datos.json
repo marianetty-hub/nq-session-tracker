@@ -1747,7 +1747,7 @@
     "ifm": 30,
     "ref_price": 28768,
     "notes": "Sesgo bajista: NQ ~28.768 (−2,4/−2,7%) tras Amazon (−7%) e Intel (−25%) según prensa; ref_price = media de 2 fuentes retrasadas (Yahoo 429); PIB 3,4% vs 3,1%, PCE sin verificar.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-10-30",
@@ -1760,6 +1760,6 @@
     "ifm": 30,
     "ref_price": null,
     "notes": "Sesgo bajista reforzado: NQ ~28.762–28.770 (−2,7%) tras resultados de Amazon (−7%) e Intel (−26%) según prensa; VIX 18,66, 10Y 4,94%, WTI 104 $; sin entrada pre de hoy.",
-    "result": null
+    "result": "down"
   }
 ]
