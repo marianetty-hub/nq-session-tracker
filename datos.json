@@ -1735,5 +1735,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ ~29.560–29.628 (−1,2/−1,4%), Alphabet −13% y software débil, parcialmente compensados por WTI −2,5% y 10Y ~5,0%; GDP/PCE no verificados.",
     "result": "down"
+  },
+  {
+    "date": "2026-10-30",
+    "cp": "update",
+    "up": 12,
+    "down": 63,
+    "flat": 25,
+    "bias": "down",
+    "conv": 50,
+    "ifm": 30,
+    "ref_price": null,
+    "notes": "Sesgo bajista reforzado: NQ ~28.762–28.770 (−2,7%) tras resultados de Amazon (−7%) e Intel (−26%) según prensa; VIX 18,66, 10Y 4,94%, WTI 104 $; sin entrada pre de hoy.",
+    "result": null
   }
 ]
