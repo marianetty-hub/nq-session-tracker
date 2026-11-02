@@ -1774,5 +1774,18 @@
     "ref_price": null,
     "notes": "Datos muy limitados: rebote overnight NQ ~+0,6% (Investing, retrasado); Yahoo 429 y sin 2 fuentes válidas, ref_price no disponible; resto de factores sin verificar.",
     "result": null
+  },
+  {
+    "date": "2026-11-02",
+    "cp": "update",
+    "up": 45,
+    "down": 25,
+    "flat": 30,
+    "bias": "up",
+    "conv": 35,
+    "ifm": 54,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario: NQ ~28.782 (+0,87 %, retrasado) con petróleo −4/−6 %, 10Y 4,91 % y VIX 18,9 a favor, pero Nvidia −4 % premarket; Apple reporta tras el cierre.",
+    "result": null
   }
 ]
