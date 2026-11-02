@@ -1761,5 +1761,18 @@
     "ref_price": null,
     "notes": "Sesgo bajista reforzado: NQ ~28.762–28.770 (−2,7%) tras resultados de Amazon (−7%) e Intel (−26%) según prensa; VIX 18,66, 10Y 4,94%, WTI 104 $; sin entrada pre de hoy.",
     "result": "down"
+  },
+  {
+    "date": "2026-11-02",
+    "cp": "pre",
+    "up": 40,
+    "down": 25,
+    "flat": 35,
+    "bias": "up",
+    "conv": 20,
+    "ifm": 50,
+    "ref_price": null,
+    "notes": "Datos muy limitados: rebote overnight NQ ~+0,6% (Investing, retrasado); Yahoo 429 y sin 2 fuentes válidas, ref_price no disponible; resto de factores sin verificar.",
+    "result": null
   }
 ]
