@@ -1813,5 +1813,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ ~28.204 (+0,27 %, retrasado, sin fecha fiable) vs +0,34 % antes; sin datos verificados de bonos, VIX, petróleo, semis ni noticias.",
     "result": null
+  },
+  {
+    "date": "2026-11-04",
+    "cp": "pre",
+    "up": 42,
+    "down": 25,
+    "flat": 33,
+    "bias": "up",
+    "conv": 20,
+    "ifm": 52,
+    "ref_price": 28441.63,
+    "notes": "Datos limitados: NQ ~28.440 (+0,48 %, retrasado, sin fecha fiable) sobre cierre previo 28.305,75; Yahoo 429, ref_price promedio de Investing y TradingView; sin datos verificados de bonos, VIX, semis ni noticias.",
+    "result": null
   }
 ]
