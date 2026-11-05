@@ -1839,5 +1839,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ ~28.381 (+0,26 %, retrasado, sin fecha fiable) vs +0,48 % antes, pero VIX −10,8 %, 10Y 4,91 %, DXY y WTI a la baja; sin datos verificados de semis ni noticias.",
     "result": "up"
+  },
+  {
+    "date": "2026-11-05",
+    "cp": "pre",
+    "up": 30,
+    "down": 40,
+    "flat": 30,
+    "bias": "down",
+    "conv": 15,
+    "ifm": 42,
+    "ref_price": 28356.13,
+    "notes": "Datos limitados: NQ ~28.356 (−0,48/−0,71 %, retrasado, sin fecha fiable) bajo cierre previo 28.566,75; Yahoo 429, ref_price promedio Investing y TradingView; sin datos verificados de bonos, VIX, semis ni noticias.",
+    "result": null
   }
 ]
