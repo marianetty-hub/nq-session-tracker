@@ -1852,5 +1852,18 @@
     "ref_price": 28356.13,
     "notes": "Datos limitados: NQ ~28.356 (−0,48/−0,71 %, retrasado, sin fecha fiable) bajo cierre previo 28.566,75; Yahoo 429, ref_price promedio Investing y TradingView; sin datos verificados de bonos, VIX, semis ni noticias.",
     "result": null
+  },
+  {
+    "date": "2026-11-05",
+    "cp": "update",
+    "up": 28,
+    "down": 44,
+    "flat": 28,
+    "bias": "down",
+    "conv": 20,
+    "ifm": 40,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario: NQ 28.317 (−0,87 % vs cierre previo, casi real) con semis débiles en premarket (AMD −4,6 %, AVGO −2,5 %, TSM −2,5 %, NVDA −1,5 %), VIX 16,95 y WTI +2,1 %; sin noticias verificadas.",
+    "result": null
   }
 ]
