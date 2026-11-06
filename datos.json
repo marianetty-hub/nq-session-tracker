@@ -1877,7 +1877,7 @@
     "ifm": 50,
     "ref_price": 27159.63,
     "notes": "Datos limitados: NQ ~27.160 (+1,27/+1,54 %, retrasado, sin hora fiable) incoherente con 28.317 del 05/11; Yahoo 429, ref_price promedio Investing y TradingView; sin datos verificados de bonos, VIX, semis ni noticias.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-11-06",
@@ -1890,6 +1890,6 @@
     "ifm": 50,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ ~27.088 (+1,26 %, retrasado, sin hora fiable) vs 27.160 de referencia; SP500 +0,02 % incoherente; sin datos verificados de bonos, VIX, semis ni noticias.",
-    "result": null
+    "result": "up"
   }
 ]
