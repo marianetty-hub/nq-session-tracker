@@ -1904,5 +1904,18 @@
     "ref_price": 27308.13,
     "notes": "NQ ~27.308 (+0,84 %, retrasado) con VIX 23,14 a la baja y 10Y 4,84 %; Yahoo 429, ref_price promedio Investing/TradingView; sin datos verificados de semis, macro ni noticias.",
     "result": null
+  },
+  {
+    "date": "2026-11-09",
+    "cp": "update",
+    "up": 40,
+    "down": 25,
+    "flat": 35,
+    "bias": "up",
+    "conv": 20,
+    "ifm": 52,
+    "ref_price": null,
+    "notes": "Sin cambios verificados vs 14:45: NQ 27.314 (+0,84 %, retrasado) idéntico y VIX 22,97 algo más bajo; sin datos de semis, macro ni noticias.",
+    "result": null
   }
 ]
