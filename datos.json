@@ -1929,7 +1929,7 @@
     "ifm": 42,
     "ref_price": 27803,
     "notes": "NQ ~27.759 (−0,91 %, retrasado) con VIX 20,97 al alza (+5,27 %); Yahoo 429, ref_price promedio Investing/TradingView (discrepancia 88 pts); sin datos verificados de semis, bonos, macro ni noticias.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-11-10",
@@ -1942,6 +1942,6 @@
     "ifm": 40,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 27.737 (−0,99 %, retrasado) −22 pts vs 14:45, mínimo 27.590 y VIX 21,06 (+5,72 %); sin datos de semis, bonos, macro ni noticias.",
-    "result": null
+    "result": "up"
   }
 ]
