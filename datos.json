@@ -1943,5 +1943,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 27.737 (−0,99 %, retrasado) −22 pts vs 14:45, mínimo 27.590 y VIX 21,06 (+5,72 %); sin datos de semis, bonos, macro ni noticias.",
     "result": "up"
+  },
+  {
+    "date": "2026-11-11",
+    "cp": "pre",
+    "up": 55,
+    "down": 20,
+    "flat": 25,
+    "bias": "up",
+    "conv": 50,
+    "ifm": 68,
+    "ref_price": 28361.25,
+    "notes": "NQ 28.361 (+1,89 %, retrasado, Yahoo) liderado por rebote de semis post-CoreWeave (SOXX +5 %) y VIX 18,4 a la baja; lastre de 10Y ~5 % y riesgo de gap fade; bonos cash cerrados (Veterans Day).",
+    "result": null
   }
 ]
