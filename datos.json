@@ -1969,5 +1969,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 28.350,5 (+1,85 %, retrasado) −11 pts vs 14:45, semis firmes (SOXX +5 %, AMD +5,8 %, AVGO +5,1 %) y VIX 18,30; DXY algo más firme; sin noticias nuevas verificadas.",
     "result": "up"
+  },
+  {
+    "date": "2026-11-12",
+    "cp": "pre",
+    "up": 22,
+    "down": 50,
+    "flat": 28,
+    "bias": "down",
+    "conv": 45,
+    "ifm": 33,
+    "ref_price": 28124.0,
+    "notes": "NQ 28.124 (−1,23 %, retrasado, Yahoo) lastrado por NVIDIA (−6/−8 % premarket) ante informes NYT/WSJ sin confirmar de posible destitución de Jensen Huang; 10Y ~5 %, VIX 18,9 (+8 %) y subasta 30Y a las 19:00.",
+    "result": null
   }
 ]
