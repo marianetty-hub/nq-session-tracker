@@ -1982,5 +1982,18 @@
     "ref_price": 28124.0,
     "notes": "NQ 28.124 (−1,23 %, retrasado, Yahoo) lastrado por NVIDIA (−6/−8 % premarket) ante informes NYT/WSJ sin confirmar de posible destitución de Jensen Huang; 10Y ~5 %, VIX 18,9 (+8 %) y subasta 30Y a las 19:00.",
     "result": null
+  },
+  {
+    "date": "2026-11-12",
+    "cp": "update",
+    "up": 20,
+    "down": 54,
+    "flat": 26,
+    "bias": "down",
+    "conv": 50,
+    "ifm": 31,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario pero sesgo bajista reforzado: NVIDIA confirma la dimisión de Jensen Huang (NVDA −12,8 % premarket); NQ 28.109 (−1,28 %, retrasado) −15 pts vs 14:45, sobre el mínimo overnight; VIX 18,64 y 10Y 5,03 % con leve alivio.",
+    "result": null
   }
 ]
