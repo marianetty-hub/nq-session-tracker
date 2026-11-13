@@ -2007,7 +2007,7 @@
     "ifm": 27,
     "ref_price": 27804.75,
     "notes": "Ejecución tardía (16:28 CET, tras la apertura): NQ 27.804,75 (−2,04 %, retrasado, Yahoo) en mínimos del día por la venta en semis (SOX −4,9 %, AMD −8,8 %, NVDA −3,7 %), con el 10Y en 5,13 % tras un PPI del 6,5 % a/a y el VIX en 20,4.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-11-13",
@@ -2020,6 +2020,6 @@
     "ifm": 45,
     "ref_price": null,
     "notes": "Sin entrada pre de hoy para comparar; NQ 28.333,75 (−0,18 %, retrasado) cae ~110 pts desde las 14:45 tras la apertura, con 10Y en 5,16 % (PPI 6,5 % a/a) y caídas en semis (AMD −5 %, AVGO −4 %, NVDA −2 %).",
-    "result": null
+    "result": "up"
   }
 ]
