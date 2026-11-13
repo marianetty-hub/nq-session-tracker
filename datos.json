@@ -1995,5 +1995,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario pero sesgo bajista reforzado: NVIDIA confirma la dimisión de Jensen Huang (NVDA −12,8 % premarket); NQ 28.109 (−1,28 %, retrasado) −15 pts vs 14:45, sobre el mínimo overnight; VIX 18,64 y 10Y 5,03 % con leve alivio.",
     "result": "up"
+  },
+  {
+    "date": "2026-11-13",
+    "cp": "update",
+    "up": 35,
+    "down": 40,
+    "flat": 25,
+    "bias": "down",
+    "conv": 35,
+    "ifm": 45,
+    "ref_price": null,
+    "notes": "Sin entrada pre de hoy para comparar; NQ 28.333,75 (−0,18 %, retrasado) cae ~110 pts desde las 14:45 tras la apertura, con 10Y en 5,16 % (PPI 6,5 % a/a) y caídas en semis (AMD −5 %, AVGO −4 %, NVDA −2 %).",
+    "result": null
   }
 ]
