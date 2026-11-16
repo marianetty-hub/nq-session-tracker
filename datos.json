@@ -2021,5 +2021,18 @@
     "ref_price": null,
     "notes": "Sin entrada pre de hoy para comparar; NQ 28.333,75 (−0,18 %, retrasado) cae ~110 pts desde las 14:45 tras la apertura, con 10Y en 5,16 % (PPI 6,5 % a/a) y caídas en semis (AMD −5 %, AVGO −4 %, NVDA −2 %).",
     "result": "up"
+  },
+  {
+    "date": "2026-11-16",
+    "cp": "pre",
+    "up": 22,
+    "down": 50,
+    "flat": 28,
+    "bias": "down",
+    "conv": 50,
+    "ifm": 30,
+    "ref_price": 27620.5,
+    "notes": "NQ 27.620,5 (−1,48 %, retrasado, Yahoo) cerca del mínimo overnight por venta global en semis antes de los resultados de NVIDIA (martes) y la OPV de Anthropic, con el 10Y en 5,14 % y el VIX en 20,8.",
+    "result": null
   }
 ]
