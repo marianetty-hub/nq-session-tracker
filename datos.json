@@ -2047,5 +2047,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 27.658,25 (−1,34 %, retrasado) recupera solo 38 pts desde las 14:45 con semis aún muy débiles (AMD/AVGO/TSM ≈−4,6 %, NVDA −2,9 %), 10Y en 5,13 %, VIX 20,5 y Empire State muy flojo (7,8).",
     "result": "down"
+  },
+  {
+    "date": "2026-11-17",
+    "cp": "pre",
+    "up": 34,
+    "down": 36,
+    "flat": 30,
+    "bias": "down",
+    "conv": 32,
+    "ifm": 40,
+    "ref_price": 27363.75,
+    "notes": "NQ 27.363,75 (+0,29 %, retrasado, Yahoo) rebota débilmente tras la venta del lunes, solo en tecnología (YM −0,8 %), con el 10Y en 5,135 %, Musalem pidiendo más subidas, VIX 23 y los resultados de NVIDIA tras el cierre.",
+    "result": null
   }
 ]
