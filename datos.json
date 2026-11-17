@@ -2059,7 +2059,7 @@
     "ifm": 40,
     "ref_price": 27363.75,
     "notes": "NQ 27.363,75 (+0,29 %, retrasado, Yahoo) rebota débilmente tras la venta del lunes, solo en tecnología (YM −0,8 %), con el 10Y en 5,135 %, Musalem pidiendo más subidas, VIX 23 y los resultados de NVIDIA tras el cierre.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-11-17",
@@ -2072,6 +2072,6 @@
     "ifm": 41,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 27.366 (+0,30 %, retrasado) plano desde las 14:45; semis amplían el rebote (AMD +2,0 %, AVGO +1,5 %, TSM a positivo) pero el 10Y sube a 5,141 % y la producción industrial de octubre cae −0,4 % antes de NVIDIA tras el cierre.",
-    "result": null
+    "result": "down"
   }
 ]
