@@ -2073,5 +2073,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 27.366 (+0,30 %, retrasado) plano desde las 14:45; semis amplían el rebote (AMD +2,0 %, AVGO +1,5 %, TSM a positivo) pero el 10Y sube a 5,141 % y la producción industrial de octubre cae −0,4 % antes de NVIDIA tras el cierre.",
     "result": "down"
+  },
+  {
+    "date": "2026-11-18",
+    "cp": "pre",
+    "up": 44,
+    "down": 30,
+    "flat": 26,
+    "bias": "up",
+    "conv": 40,
+    "ifm": 55,
+    "ref_price": 27276.75,
+    "notes": "NQ 27.276,75 (+0,74 %, retrasado, Yahoo) rebota tras el bate y la guía de NVIDIA (semis +2-3 % premarket), pero con rebote estrecho (Dow y Russell en negativo), 10Y en 5,115 %, VIX 24,4 y actas FOMC a las 20:00 CET.",
+    "result": null
   }
 ]
