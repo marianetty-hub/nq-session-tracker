@@ -2085,7 +2085,7 @@
     "ifm": 55,
     "ref_price": 27276.75,
     "notes": "NQ 27.276,75 (+0,74 %, retrasado, Yahoo) rebota tras el bate y la guía de NVIDIA (semis +2-3 % premarket), pero con rebote estrecho (Dow y Russell en negativo), 10Y en 5,115 %, VIX 24,4 y actas FOMC a las 20:00 CET.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-11-18",
@@ -2098,6 +2098,6 @@
     "ifm": 53,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 27.245,75 (+0,63 %, retrasado) cede 31 pts desde las 14:45 al moderarse el rebote de semis (NVDA +2,2 %, AMD +1,2 %) y con MSFT/META en rojo, compensado en parte por el 10Y en 5,099 % y VIX 23,9 antes de las actas FOMC.",
-    "result": null
+    "result": "down"
   }
 ]
