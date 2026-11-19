@@ -2099,5 +2099,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 27.245,75 (+0,63 %, retrasado) cede 31 pts desde las 14:45 al moderarse el rebote de semis (NVDA +2,2 %, AMD +1,2 %) y con MSFT/META en rojo, compensado en parte por el 10Y en 5,099 % y VIX 23,9 antes de las actas FOMC.",
     "result": "down"
+  },
+  {
+    "date": "2026-11-19",
+    "cp": "pre",
+    "up": 47,
+    "down": 30,
+    "flat": 23,
+    "bias": "up",
+    "conv": 42,
+    "ifm": 60,
+    "ref_price": 27661.75,
+    "notes": "NQ 27.661,75 (+1,75 %, retrasado, Yahoo) sube con fuerza ante el debut de Anthropic en Nasdaq (OPV a 83 $, sobre el rango) y semis/Mag7 al alza, frenado por el 10Y en 5,095 % y unas actas FOMC que apuntan a más subidas; rally más estrecho en Dow y Russell.",
+    "result": null
   }
 ]
