@@ -2111,7 +2111,7 @@
     "ifm": 60,
     "ref_price": 27661.75,
     "notes": "NQ 27.661,75 (+1,75 %, retrasado, Yahoo) sube con fuerza ante el debut de Anthropic en Nasdaq (OPV a 83 $, sobre el rango) y semis/Mag7 al alza, frenado por el 10Y en 5,095 % y unas actas FOMC que apuntan a más subidas; rally más estrecho en Dow y Russell.",
-    "result": null
+    "result": "down"
   },
   {
     "date": "2026-11-19",
@@ -2124,6 +2124,6 @@
     "ifm": 62,
     "ref_price": null,
     "notes": "Sin cambio de escenario: NQ 27.697,25 (+1,88 %, retrasado) gana 35 pts desde las 14:45 con semis/Mag7 ampliando avances (AMD +2,3 %, META +1,7 %, AVGO +2,8 %), 10Y baja a 5,080 % y perpetuos indican debut de ANT ~+25 %, frenado por Philly Fed débil (6,3 vs 18) y Russell rezagado.",
-    "result": null
+    "result": "down"
   }
 ]
