@@ -1979,7 +1979,7 @@
     "bias": "down",
     "conv": 45,
     "ifm": 33,
-    "ref_price": 28124.0,
+    "ref_price": 28124,
     "notes": "NQ 28.124 (−1,23 %, retrasado, Yahoo) lastrado por NVIDIA (−6/−8 % premarket) ante informes NYT/WSJ sin confirmar de posible destitución de Jensen Huang; 10Y ~5 %, VIX 18,9 (+8 %) y subasta 30Y a las 19:00.",
     "result": "up"
   },
@@ -2111,6 +2111,19 @@
     "ifm": 60,
     "ref_price": 27661.75,
     "notes": "NQ 27.661,75 (+1,75 %, retrasado, Yahoo) sube con fuerza ante el debut de Anthropic en Nasdaq (OPV a 83 $, sobre el rango) y semis/Mag7 al alza, frenado por el 10Y en 5,095 % y unas actas FOMC que apuntan a más subidas; rally más estrecho en Dow y Russell.",
+    "result": null
+  },
+  {
+    "date": "2026-11-19",
+    "cp": "update",
+    "up": 49,
+    "down": 29,
+    "flat": 22,
+    "bias": "up",
+    "conv": 44,
+    "ifm": 62,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario: NQ 27.697,25 (+1,88 %, retrasado) gana 35 pts desde las 14:45 con semis/Mag7 ampliando avances (AMD +2,3 %, META +1,7 %, AVGO +2,8 %), 10Y baja a 5,080 % y perpetuos indican debut de ANT ~+25 %, frenado por Philly Fed débil (6,3 vs 18) y Russell rezagado.",
     "result": null
   }
 ]
