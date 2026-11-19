@@ -1979,7 +1979,7 @@
     "bias": "down",
     "conv": 45,
     "ifm": 33,
-    "ref_price": 28124,
+    "ref_price": 28124.0,
     "notes": "NQ 28.124 (−1,23 %, retrasado, Yahoo) lastrado por NVIDIA (−6/−8 % premarket) ante informes NYT/WSJ sin confirmar de posible destitución de Jensen Huang; 10Y ~5 %, VIX 18,9 (+8 %) y subasta 30Y a las 19:00.",
     "result": "up"
   },
