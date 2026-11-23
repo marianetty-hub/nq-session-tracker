@@ -2151,5 +2151,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario pero sesgo bajista más débil: NQ 26.275,75 (−1,22 %, retrasado) rebota 263 pts desde las 14:45 tras defender 26.000 y recuperar el VWAP estimado, con VIX bajando a 30,1 y AMD/AVGO recortando pérdidas, mientras TSMC empeora (−5,1 %) y el gap frente a 26.600 sigue abierto.",
     "result": "down"
+  },
+  {
+    "date": "2026-11-23",
+    "cp": "pre",
+    "up": 48,
+    "down": 30,
+    "flat": 22,
+    "bias": "up",
+    "conv": 42,
+    "ifm": 60,
+    "ref_price": 25978.5,
+    "notes": "NQ 25.978,50 (+3,39 %, retrasado, Yahoo) rebota con fuerza tras la peor semana del Nasdaq desde 2020, liderado por semis (NVDA +8,6 %, TSM +5,8 %) y VIX bajando a 31, pero con un gap de +852 pts, 10Y en 4,93 % y una subida de la Fed descontada (~96 %) que limitan la convicción.",
+    "result": null
   }
 ]
