@@ -2164,5 +2164,18 @@
     "ref_price": 25978.5,
     "notes": "NQ 25.978,50 (+3,39 %, retrasado, Yahoo) rebota con fuerza tras la peor semana del Nasdaq desde 2020, liderado por semis (NVDA +8,6 %, TSM +5,8 %) y VIX bajando a 31, pero con un gap de +852 pts, 10Y en 4,93 % y una subida de la Fed descontada (~96 %) que limitan la convicción.",
     "result": null
+  },
+  {
+    "date": "2026-11-23",
+    "cp": "update",
+    "up": 58,
+    "down": 24,
+    "flat": 18,
+    "bias": "up",
+    "conv": 48,
+    "ifm": 67,
+    "ref_price": null,
+    "notes": "Escenario cambia a alcista extendido: NVIDIA readmite a Jensen Huang como CEO (~14:55 CET) y el NQ salta a 26.820 (+6,74 %, retrasado), +841 pts desde las 14:45, con NVDA +31 %, TSM +18 % y VIX bajo 28, frenado por un gap de +1.690 pts y el 10Y repuntando a 4,976 %.",
+    "result": null
   }
 ]
