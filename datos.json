@@ -2189,7 +2189,7 @@
     "ifm": 34,
     "ref_price": 26213.75,
     "notes": "NQ 26.213,75 (−2,22 %, retrasado, Yahoo) devuelve parte del rally del lunes con toma de beneficios en semis (MU −6,7 %, AMD −5,1 %, NVDA −4,7 %), VIX subiendo a 29,8 y una subida de la Fed en diciembre totalmente descontada antes del PCE del miércoles.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-11-24",
@@ -2202,6 +2202,6 @@
     "ifm": 36,
     "ref_price": null,
     "notes": "Sin cambio de escenario: el NQ rebota de forma marginal a 26.304,75 (−1,88 %, retrasado, +91 pts desde las 14:45) sin nuevos mínimos, con semis y megacaps planos frente al premarket anterior (NVDA −4,9 %), VIX 29,4 y 10Y plano en 4,89 %; sesgo bajista algo menos intenso antes de la confianza del consumidor.",
-    "result": null
+    "result": "up"
   }
 ]
