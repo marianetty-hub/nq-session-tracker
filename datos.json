@@ -1979,7 +1979,7 @@
     "bias": "down",
     "conv": 45,
     "ifm": 33,
-    "ref_price": 28124.0,
+    "ref_price": 28124,
     "notes": "NQ 28.124 (−1,23 %, retrasado, Yahoo) lastrado por NVIDIA (−6/−8 % premarket) ante informes NYT/WSJ sin confirmar de posible destitución de Jensen Huang; 10Y ~5 %, VIX 18,9 (+8 %) y subasta 30Y a las 19:00.",
     "result": "up"
   },
@@ -2177,5 +2177,18 @@
     "ref_price": null,
     "notes": "Escenario cambia a alcista extendido: NVIDIA readmite a Jensen Huang como CEO (~14:55 CET) y el NQ salta a 26.820 (+6,74 %, retrasado), +841 pts desde las 14:45, con NVDA +31 %, TSM +18 % y VIX bajo 28, frenado por un gap de +1.690 pts y el 10Y repuntando a 4,976 %.",
     "result": "up"
+  },
+  {
+    "date": "2026-11-24",
+    "cp": "pre",
+    "up": 25,
+    "down": 50,
+    "flat": 25,
+    "bias": "down",
+    "conv": 52,
+    "ifm": 34,
+    "ref_price": 26213.75,
+    "notes": "NQ 26.213,75 (−2,22 %, retrasado, Yahoo) devuelve parte del rally del lunes con toma de beneficios en semis (MU −6,7 %, AMD −5,1 %, NVDA −4,7 %), VIX subiendo a 29,8 y una subida de la Fed en diciembre totalmente descontada antes del PCE del miércoles.",
+    "result": null
   }
 ]
