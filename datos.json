@@ -2216,5 +2216,18 @@
     "ref_price": 25449.25,
     "notes": "NQ 25.449,25 (−3,15 %, retrasado, Yahoo) en mínimos del día por segunda jornada de venta en semis/IA (MU −7,9 %, AMD −6,7 %, NVDA −6,0 %), nuevos aranceles propuestos, PCE subyacente 3,3 % (vs 3,2 %) que consolida la subida de la Fed y VIX en 31.",
     "result": null
+  },
+  {
+    "date": "2026-11-25",
+    "cp": "update",
+    "up": 21,
+    "down": 56,
+    "flat": 23,
+    "bias": "down",
+    "conv": 56,
+    "ifm": 27,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario: el NQ sigue en 25.442,50 (−3,17 %, retrasado, −7 pts desde las 14:45) tras marcar un nuevo mínimo del día en 25.394 sin consolidarlo, con megacaps planas frente al premarket anterior, VIX 31,6 y subsidio de 189.000 (fuerte) que refuerza la lectura hawkish; sesgo bajista ligeramente más firme.",
+    "result": null
   }
 ]
