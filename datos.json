@@ -2203,5 +2203,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: el NQ rebota de forma marginal a 26.304,75 (−1,88 %, retrasado, +91 pts desde las 14:45) sin nuevos mínimos, con semis y megacaps planos frente al premarket anterior (NVDA −4,9 %), VIX 29,4 y 10Y plano en 4,89 %; sesgo bajista algo menos intenso antes de la confianza del consumidor.",
     "result": "up"
+  },
+  {
+    "date": "2026-11-25",
+    "cp": "pre",
+    "up": 22,
+    "down": 55,
+    "flat": 23,
+    "bias": "down",
+    "conv": 55,
+    "ifm": 28,
+    "ref_price": 25449.25,
+    "notes": "NQ 25.449,25 (−3,15 %, retrasado, Yahoo) en mínimos del día por segunda jornada de venta en semis/IA (MU −7,9 %, AMD −6,7 %, NVDA −6,0 %), nuevos aranceles propuestos, PCE subyacente 3,3 % (vs 3,2 %) que consolida la subida de la Fed y VIX en 31.",
+    "result": null
   }
 ]
