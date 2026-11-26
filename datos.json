@@ -2229,5 +2229,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario: el NQ sigue en 25.442,50 (−3,17 %, retrasado, −7 pts desde las 14:45) tras marcar un nuevo mínimo del día en 25.394 sin consolidarlo, con megacaps planas frente al premarket anterior, VIX 31,6 y subsidio de 189.000 (fuerte) que refuerza la lectura hawkish; sesgo bajista ligeramente más firme.",
     "result": "up"
+  },
+  {
+    "date": "2026-11-26",
+    "cp": "pre",
+    "up": 38,
+    "down": 20,
+    "flat": 42,
+    "bias": "flat",
+    "conv": 35,
+    "ifm": 58,
+    "ref_price": 26295.0,
+    "notes": "Festivo de Acción de Gracias (contado de EE. UU. cerrado): el NQ sube +0,75 % a 26.295,00 (retrasado, Yahoo) prolongando el rebote del miércoles con Asia y Europa al alza y aranceles vistos menos graves, pero la sesión Globex corta y sin liquidez, el aviso de S&P sobre NVDA y los bonos algo a la baja dejan sesgo lateral con inclinación alcista.",
+    "result": null
   }
 ]
