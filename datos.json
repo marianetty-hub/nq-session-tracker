@@ -2242,5 +2242,18 @@
     "ref_price": 26295.0,
     "notes": "Festivo de Acción de Gracias (contado de EE. UU. cerrado): el NQ sube +0,75 % a 26.295,00 (retrasado, Yahoo) prolongando el rebote del miércoles con Asia y Europa al alza y aranceles vistos menos graves, pero la sesión Globex corta y sin liquidez, el aviso de S&P sobre NVDA y los bonos algo a la baja dejan sesgo lateral con inclinación alcista.",
     "result": null
+  },
+  {
+    "date": "2026-11-26",
+    "cp": "update",
+    "up": 37,
+    "down": 20,
+    "flat": 43,
+    "bias": "flat",
+    "conv": 35,
+    "ifm": 57,
+    "ref_price": null,
+    "notes": "Sin cambio de escenario en festivo de Acción de Gracias: el NQ sigue en 26.283,75 (+0,70 %, retrasado, −11 pts desde las 14:45) dentro del rango 25.997,50-26.436, con VIX, bonos, dólar y petróleo planos, sin noticias nuevas verificadas ni cotización de acciones; sesgo lateral algo más marcado.",
+    "result": null
   }
 ]
