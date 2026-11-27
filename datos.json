@@ -2255,5 +2255,18 @@
     "ref_price": null,
     "notes": "Sin cambio de escenario en festivo de Acción de Gracias: el NQ sigue en 26.283,75 (+0,70 %, retrasado, −11 pts desde las 14:45) dentro del rango 25.997,50-26.436, con VIX, bonos, dólar y petróleo planos, sin noticias nuevas verificadas ni cotización de acciones; sesgo lateral algo más marcado.",
     "result": "down"
+  },
+  {
+    "date": "2026-11-27",
+    "cp": "pre",
+    "up": 45,
+    "down": 25,
+    "flat": 30,
+    "bias": "up",
+    "conv": 45,
+    "ifm": 63,
+    "ref_price": 26701.25,
+    "notes": "Black Friday (cierre anticipado 19:00 CET): el NQ abre con gap de +2,30 % a 26.701,25 (retrasado, Yahoo) por el rebote de semis/IA (NVDA y MU al alza en premarket), el apoyo estatal chino y CTA muy cortos, frenado por el 10Y en 4,90 % (+5 pb), la subida de la Fed descontada y el petróleo; sesgo alcista moderado con baja liquidez.",
+    "result": null
   }
 ]
