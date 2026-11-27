@@ -2267,7 +2267,7 @@
     "ifm": 63,
     "ref_price": 26701.25,
     "notes": "Black Friday (cierre anticipado 19:00 CET): el NQ abre con gap de +2,30 % a 26.701,25 (retrasado, Yahoo) por el rebote de semis/IA (NVDA y MU al alza en premarket), el apoyo estatal chino y CTA muy cortos, frenado por el 10Y en 4,90 % (+5 pb), la subida de la Fed descontada y el petróleo; sesgo alcista moderado con baja liquidez.",
-    "result": null
+    "result": "up"
   },
   {
     "date": "2026-11-27",
@@ -2280,6 +2280,6 @@
     "ifm": 61,
     "ref_price": null,
     "notes": "Sin cambio de escenario en Black Friday: el NQ cede −58 pts desde las 14:45 hasta 26.643,50 (+2,08 %, retrasado) pero mantiene el gap sobre el cierre del jueves (26.221), con 10Y plano en 4,91 %, VIX 25,6 algo al alza y sin premarket verificable de megacaps; sesgo alcista moderado con algo menos de convicción.",
-    "result": null
+    "result": "up"
   }
 ]
